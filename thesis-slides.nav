@@ -24,113 +24,123 @@
 \headcommand {\beamer@framepages {7}{7}}
 \headcommand {\slideentry {2}{1}{2}{8/8}{Perspectivas de balance de carga}{0}}
 \headcommand {\beamer@framepages {8}{8}}
-\headcommand {\beamer@subsectionentry {0}{2}{2}{9}{T\IeC {\'e}cnicas de balance de carga}}\headcommand {\beamer@subsectionpages {7}{8}}
-\headcommand {\slideentry {2}{2}{1}{9/9}{T\IeC {\'e}cnicas de balance de carga}{0}}
+\headcommand {\slideentry {2}{1}{3}{9/9}{Perspectivas de balance de carga}{0}}
 \headcommand {\beamer@framepages {9}{9}}
-\headcommand {\sectionentry {3}{Soluci\IeC {\'o}n propuesta}{10}{Soluci\IeC {\'o}n propuesta}{0}}
-\headcommand {\beamer@sectionpages {7}{9}}
-\headcommand {\beamer@subsectionpages {9}{9}}
-\headcommand {\beamer@subsectionentry {0}{3}{1}{10}{Objetivos y alcance del proyecto}}\headcommand {\beamer@subsectionpages {10}{9}}
-\headcommand {\slideentry {3}{1}{1}{10/15}{Objetivos y alcance del proyecto}{0}}
-\headcommand {\beamer@framepages {10}{15}}
-\headcommand {\slideentry {3}{1}{2}{16/16}{Objetivos y alcance del proyecto}{0}}
-\headcommand {\beamer@framepages {16}{16}}
-\headcommand {\sectionentry {4}{Dise\IeC {\~n}o del modelo el\IeC {\'a}stico}{17}{Dise\IeC {\~n}o del modelo el\IeC {\'a}stico}{0}}
-\headcommand {\beamer@sectionpages {10}{16}}
-\headcommand {\beamer@subsectionpages {10}{16}}
-\headcommand {\beamer@subsectionentry {0}{4}{1}{17}{An\IeC {\'a}lisis del modelo el\IeC {\'a}stico}}\headcommand {\beamer@subsectionpages {17}{16}}
-\headcommand {\slideentry {4}{1}{1}{17/17}{An\IeC {\'a}lisis del modelo el\IeC {\'a}stico}{0}}
-\headcommand {\beamer@framepages {17}{17}}
-\headcommand {\slideentry {4}{1}{2}{18/18}{An\IeC {\'a}lisis del modelo el\IeC {\'a}stico}{0}}
+\headcommand {\beamer@subsectionentry {0}{2}{2}{10}{T\IeC {\'e}cnicas de balance de carga}}\headcommand {\beamer@subsectionpages {7}{9}}
+\headcommand {\slideentry {2}{2}{1}{10/10}{T\IeC {\'e}cnicas de balance de carga}{0}}
+\headcommand {\beamer@framepages {10}{10}}
+\headcommand {\sectionentry {3}{Soluci\IeC {\'o}n propuesta}{11}{Soluci\IeC {\'o}n propuesta}{0}}
+\headcommand {\beamer@sectionpages {7}{10}}
+\headcommand {\beamer@subsectionpages {10}{10}}
+\headcommand {\beamer@subsectionentry {0}{3}{1}{11}{Objetivos y alcance del proyecto}}\headcommand {\beamer@subsectionpages {11}{10}}
+\headcommand {\slideentry {3}{1}{1}{11/11}{Objetivos y alcance del proyecto}{0}}
+\headcommand {\beamer@framepages {11}{11}}
+\headcommand {\slideentry {3}{1}{2}{12/17}{Objetivos y alcance del proyecto}{0}}
+\headcommand {\beamer@framepages {12}{17}}
+\headcommand {\slideentry {3}{1}{3}{18/18}{Objetivos y alcance del proyecto}{0}}
 \headcommand {\beamer@framepages {18}{18}}
-\headcommand {\slideentry {4}{1}{3}{19/19}{An\IeC {\'a}lisis del modelo el\IeC {\'a}stico}{0}}
+\headcommand {\sectionentry {4}{Dise\IeC {\~n}o del modelo el\IeC {\'a}stico}{19}{Dise\IeC {\~n}o del modelo el\IeC {\'a}stico}{0}}
+\headcommand {\beamer@sectionpages {11}{18}}
+\headcommand {\beamer@subsectionpages {11}{18}}
+\headcommand {\beamer@subsectionentry {0}{4}{1}{19}{An\IeC {\'a}lisis del modelo el\IeC {\'a}stico}}\headcommand {\beamer@subsectionpages {19}{18}}
+\headcommand {\slideentry {4}{1}{1}{19/19}{An\IeC {\'a}lisis del modelo el\IeC {\'a}stico}{0}}
 \headcommand {\beamer@framepages {19}{19}}
-\headcommand {\slideentry {4}{1}{4}{20/20}{An\IeC {\'a}lisis del modelo el\IeC {\'a}stico}{0}}
+\headcommand {\slideentry {4}{1}{2}{20/20}{An\IeC {\'a}lisis del modelo el\IeC {\'a}stico}{0}}
 \headcommand {\beamer@framepages {20}{20}}
-\headcommand {\slideentry {4}{1}{5}{21/21}{An\IeC {\'a}lisis del modelo el\IeC {\'a}stico}{0}}
+\headcommand {\slideentry {4}{1}{3}{21/21}{An\IeC {\'a}lisis del modelo el\IeC {\'a}stico}{0}}
 \headcommand {\beamer@framepages {21}{21}}
-\headcommand {\beamer@subsectionentry {0}{4}{2}{22}{Recolecci\IeC {\'o}n de los datos}}\headcommand {\beamer@subsectionpages {17}{21}}
-\headcommand {\slideentry {4}{2}{1}{22/22}{Recolecci\IeC {\'o}n de los datos}{0}}
+\headcommand {\slideentry {4}{1}{4}{22/22}{An\IeC {\'a}lisis del modelo el\IeC {\'a}stico}{0}}
 \headcommand {\beamer@framepages {22}{22}}
-\headcommand {\beamer@subsectionentry {0}{4}{3}{23}{Algoritmo reactivo}}\headcommand {\beamer@subsectionpages {22}{22}}
-\headcommand {\slideentry {4}{3}{1}{23/23}{Algoritmo reactivo}{0}}
+\headcommand {\slideentry {4}{1}{5}{23/23}{An\IeC {\'a}lisis del modelo el\IeC {\'a}stico}{0}}
 \headcommand {\beamer@framepages {23}{23}}
-\headcommand {\slideentry {4}{3}{2}{24/24}{Algoritmo reactivo}{0}}
+\headcommand {\slideentry {4}{1}{6}{24/24}{An\IeC {\'a}lisis del modelo el\IeC {\'a}stico}{0}}
 \headcommand {\beamer@framepages {24}{24}}
-\headcommand {\beamer@subsectionentry {0}{4}{4}{25}{Algoritmo predictivo}}\headcommand {\beamer@subsectionpages {23}{24}}
-\headcommand {\slideentry {4}{4}{1}{25/25}{Algoritmo predictivo}{0}}
+\headcommand {\beamer@subsectionentry {0}{4}{2}{25}{Recolecci\IeC {\'o}n de los datos}}\headcommand {\beamer@subsectionpages {19}{24}}
+\headcommand {\slideentry {4}{2}{1}{25/25}{Recolecci\IeC {\'o}n de los datos}{0}}
 \headcommand {\beamer@framepages {25}{25}}
-\headcommand {\slideentry {4}{4}{2}{26/26}{Algoritmo predictivo}{0}}
+\headcommand {\beamer@subsectionentry {0}{4}{3}{26}{Algoritmo reactivo}}\headcommand {\beamer@subsectionpages {25}{25}}
+\headcommand {\slideentry {4}{3}{1}{26/26}{Algoritmo reactivo}{0}}
 \headcommand {\beamer@framepages {26}{26}}
-\headcommand {\beamer@subsectionentry {0}{4}{5}{27}{Administraci\IeC {\'o}n del sistema}}\headcommand {\beamer@subsectionpages {25}{26}}
-\headcommand {\slideentry {4}{5}{1}{27/27}{Administraci\IeC {\'o}n del sistema}{0}}
+\headcommand {\slideentry {4}{3}{2}{27/27}{Algoritmo reactivo}{0}}
 \headcommand {\beamer@framepages {27}{27}}
-\headcommand {\sectionentry {5}{Experimentos y evaluaci\IeC {\'o}n}{28}{Experimentos y evaluaci\IeC {\'o}n}{0}}
-\headcommand {\beamer@sectionpages {17}{27}}
-\headcommand {\beamer@subsectionpages {27}{27}}
-\headcommand {\beamer@subsectionentry {0}{5}{1}{28}{Implementaci\IeC {\'o}n del sistema}}\headcommand {\beamer@subsectionpages {28}{27}}
-\headcommand {\slideentry {5}{1}{1}{28/28}{Implementaci\IeC {\'o}n del sistema}{0}}
+\headcommand {\beamer@subsectionentry {0}{4}{4}{28}{Algoritmo predictivo}}\headcommand {\beamer@subsectionpages {26}{27}}
+\headcommand {\slideentry {4}{4}{1}{28/28}{Algoritmo predictivo}{0}}
 \headcommand {\beamer@framepages {28}{28}}
-\headcommand {\slideentry {5}{1}{2}{29/29}{Implementaci\IeC {\'o}n del sistema}{0}}
+\headcommand {\slideentry {4}{4}{2}{29/29}{Algoritmo predictivo}{0}}
 \headcommand {\beamer@framepages {29}{29}}
-\headcommand {\slideentry {5}{1}{3}{30/30}{Implementaci\IeC {\'o}n del sistema}{0}}
+\headcommand {\beamer@subsectionentry {0}{4}{5}{30}{Administraci\IeC {\'o}n del sistema}}\headcommand {\beamer@subsectionpages {28}{29}}
+\headcommand {\slideentry {4}{5}{1}{30/30}{Administraci\IeC {\'o}n del sistema}{0}}
 \headcommand {\beamer@framepages {30}{30}}
-\headcommand {\beamer@subsectionentry {0}{5}{2}{31}{Dise\IeC {\~n}o de los experimentos}}\headcommand {\beamer@subsectionpages {28}{30}}
-\headcommand {\slideentry {5}{2}{1}{31/31}{Dise\IeC {\~n}o de los experimentos}{0}}
+\headcommand {\sectionentry {5}{Experimentos y evaluaci\IeC {\'o}n}{31}{Experimentos y evaluaci\IeC {\'o}n}{0}}
+\headcommand {\beamer@sectionpages {19}{30}}
+\headcommand {\beamer@subsectionpages {30}{30}}
+\headcommand {\beamer@subsectionentry {0}{5}{1}{31}{Implementaci\IeC {\'o}n del sistema}}\headcommand {\beamer@subsectionpages {31}{30}}
+\headcommand {\slideentry {5}{1}{1}{31/31}{Implementaci\IeC {\'o}n del sistema}{0}}
 \headcommand {\beamer@framepages {31}{31}}
-\headcommand {\slideentry {5}{2}{2}{32/32}{Dise\IeC {\~n}o de los experimentos}{0}}
+\headcommand {\slideentry {5}{1}{2}{32/32}{Implementaci\IeC {\'o}n del sistema}{0}}
 \headcommand {\beamer@framepages {32}{32}}
-\headcommand {\slideentry {5}{2}{3}{33/33}{Dise\IeC {\~n}o de los experimentos}{0}}
+\headcommand {\slideentry {5}{1}{3}{33/33}{Implementaci\IeC {\'o}n del sistema}{0}}
 \headcommand {\beamer@framepages {33}{33}}
-\headcommand {\slideentry {5}{2}{4}{34/34}{Dise\IeC {\~n}o de los experimentos}{0}}
+\headcommand {\slideentry {5}{1}{4}{34/34}{Implementaci\IeC {\'o}n del sistema}{0}}
 \headcommand {\beamer@framepages {34}{34}}
-\headcommand {\beamer@subsectionentry {0}{5}{3}{35}{Evaluaci\IeC {\'o}n}}\headcommand {\beamer@subsectionpages {31}{34}}
-\headcommand {\slideentry {5}{3}{1}{35/35}{Evaluaci\IeC {\'o}n}{0}}
+\headcommand {\beamer@subsectionentry {0}{5}{2}{35}{Dise\IeC {\~n}o de los experimentos}}\headcommand {\beamer@subsectionpages {31}{34}}
+\headcommand {\slideentry {5}{2}{1}{35/35}{Dise\IeC {\~n}o de los experimentos}{0}}
 \headcommand {\beamer@framepages {35}{35}}
-\headcommand {\slideentry {5}{3}{2}{36/36}{Evaluaci\IeC {\'o}n}{0}}
+\headcommand {\slideentry {5}{2}{2}{36/36}{Dise\IeC {\~n}o de los experimentos}{0}}
 \headcommand {\beamer@framepages {36}{36}}
-\headcommand {\slideentry {5}{3}{3}{37/37}{Evaluaci\IeC {\'o}n}{0}}
+\headcommand {\slideentry {5}{2}{3}{37/37}{Dise\IeC {\~n}o de los experimentos}{0}}
 \headcommand {\beamer@framepages {37}{37}}
-\headcommand {\slideentry {5}{3}{4}{38/38}{Evaluaci\IeC {\'o}n}{0}}
+\headcommand {\slideentry {5}{2}{4}{38/38}{Dise\IeC {\~n}o de los experimentos}{0}}
 \headcommand {\beamer@framepages {38}{38}}
-\headcommand {\slideentry {5}{3}{5}{39/39}{Evaluaci\IeC {\'o}n}{0}}
+\headcommand {\beamer@subsectionentry {0}{5}{3}{39}{Evaluaci\IeC {\'o}n}}\headcommand {\beamer@subsectionpages {35}{38}}
+\headcommand {\slideentry {5}{3}{1}{39/39}{Evaluaci\IeC {\'o}n}{0}}
 \headcommand {\beamer@framepages {39}{39}}
-\headcommand {\slideentry {5}{3}{6}{40/40}{Evaluaci\IeC {\'o}n}{0}}
+\headcommand {\slideentry {5}{3}{2}{40/40}{Evaluaci\IeC {\'o}n}{0}}
 \headcommand {\beamer@framepages {40}{40}}
-\headcommand {\slideentry {5}{3}{7}{41/41}{Evaluaci\IeC {\'o}n}{0}}
+\headcommand {\slideentry {5}{3}{3}{41/41}{Evaluaci\IeC {\'o}n}{0}}
 \headcommand {\beamer@framepages {41}{41}}
-\headcommand {\slideentry {5}{3}{8}{42/42}{Evaluaci\IeC {\'o}n}{0}}
+\headcommand {\slideentry {5}{3}{4}{42/42}{Evaluaci\IeC {\'o}n}{0}}
 \headcommand {\beamer@framepages {42}{42}}
-\headcommand {\slideentry {5}{3}{9}{43/43}{Evaluaci\IeC {\'o}n}{0}}
+\headcommand {\slideentry {5}{3}{5}{43/43}{Evaluaci\IeC {\'o}n}{0}}
 \headcommand {\beamer@framepages {43}{43}}
-\headcommand {\sectionentry {6}{Conclusiones}{44}{Conclusiones}{0}}
-\headcommand {\beamer@sectionpages {28}{43}}
-\headcommand {\beamer@subsectionpages {35}{43}}
-\headcommand {\slideentry {6}{0}{10}{44/44}{}{0}}
+\headcommand {\slideentry {5}{3}{6}{44/44}{Evaluaci\IeC {\'o}n}{0}}
 \headcommand {\beamer@framepages {44}{44}}
-\headcommand {\slideentry {6}{0}{11}{45/45}{}{0}}
+\headcommand {\slideentry {5}{3}{7}{45/45}{Evaluaci\IeC {\'o}n}{0}}
 \headcommand {\beamer@framepages {45}{45}}
-\headcommand {\slideentry {6}{0}{12}{46/46}{}{0}}
+\headcommand {\slideentry {5}{3}{8}{46/46}{Evaluaci\IeC {\'o}n}{0}}
 \headcommand {\beamer@framepages {46}{46}}
-\headcommand {\slideentry {6}{0}{13}{47/47}{}{0}}
+\headcommand {\slideentry {5}{3}{9}{47/47}{Evaluaci\IeC {\'o}n}{0}}
 \headcommand {\beamer@framepages {47}{47}}
-\headcommand {\slideentry {6}{0}{13}{47/48}{}{0}}
-\headcommand {\beamer@framepages {47}{48}}
-\headcommand {\slideentry {6}{0}{13}{47/49}{}{0}}
-\headcommand {\beamer@framepages {47}{49}}
-\headcommand {\slideentry {6}{0}{13}{47/50}{}{0}}
-\headcommand {\beamer@framepages {47}{50}}
-\headcommand {\partentry {\translate {Appendix}}{1}}
-\headcommand {\beamer@partpages {1}{50}}
-\headcommand {\beamer@sectionpages {44}{50}}
-\headcommand {\beamer@subsectionpages {44}{50}}
-\headcommand {\beamer@appendixpages {51}}
-\headcommand {\slideentry {6}{0}{14}{51/51}{}{1}}
+\headcommand {\sectionentry {6}{Conclusiones}{48}{Conclusiones}{0}}
+\headcommand {\beamer@sectionpages {31}{47}}
+\headcommand {\beamer@subsectionpages {39}{47}}
+\headcommand {\slideentry {6}{0}{10}{48/48}{}{0}}
+\headcommand {\beamer@framepages {48}{48}}
+\headcommand {\slideentry {6}{0}{11}{49/49}{}{0}}
+\headcommand {\beamer@framepages {49}{49}}
+\headcommand {\slideentry {6}{0}{12}{50/50}{}{0}}
+\headcommand {\beamer@framepages {50}{50}}
+\headcommand {\slideentry {6}{0}{13}{51/51}{}{0}}
 \headcommand {\beamer@framepages {51}{51}}
-\headcommand {\beamer@partpages {51}{51}}
-\headcommand {\beamer@subsectionpages {51}{51}}
-\headcommand {\beamer@sectionpages {51}{51}}
-\headcommand {\beamer@documentpages {51}}
+\headcommand {\slideentry {6}{0}{14}{52/52}{}{0}}
+\headcommand {\beamer@framepages {52}{52}}
+\headcommand {\slideentry {6}{0}{14}{52/53}{}{0}}
+\headcommand {\beamer@framepages {52}{53}}
+\headcommand {\slideentry {6}{0}{14}{52/54}{}{0}}
+\headcommand {\beamer@framepages {52}{54}}
+\headcommand {\slideentry {6}{0}{14}{52/55}{}{0}}
+\headcommand {\beamer@framepages {52}{55}}
+\headcommand {\partentry {\translate {Appendix}}{1}}
+\headcommand {\beamer@partpages {1}{55}}
+\headcommand {\beamer@sectionpages {48}{55}}
+\headcommand {\beamer@subsectionpages {48}{55}}
+\headcommand {\beamer@appendixpages {56}}
+\headcommand {\slideentry {6}{0}{15}{56/56}{}{1}}
+\headcommand {\beamer@framepages {56}{56}}
+\headcommand {\beamer@partpages {56}{56}}
+\headcommand {\beamer@subsectionpages {56}{56}}
+\headcommand {\beamer@sectionpages {56}{56}}
+\headcommand {\beamer@documentpages {56}}
 \headcommand {\def \inserttotalframenumber {1}}
 \headcommand {\def \inserttotalframenumber {37}}
 \headcommand {\def \appendixtotalframenumber {1}}
