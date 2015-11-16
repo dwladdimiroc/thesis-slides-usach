@@ -1,0 +1,59 @@
+\usepackage[utf8]{inputenc}		% Codificación
+\usepackage{graphicx}				% Figuras y gráficos
+\usepackage{amsfonts}				% Letras matemáticas
+\usepackage{amsmath}					% Símbolos matemáticos
+\usepackage{amssymb,latexsym}		% Letras griegas entre otros 
+\usepackage{amstext}					% Texto en ecuaciones
+\usepackage{amsthm}					% Varios
+\usepackage{marvosym}				% Otros símbolos
+\usepackage{mathcomp}				% Más componentes matemáticos
+\usepackage{setspace}				% Espaciado
+\usepackage{stmaryrd}				% Varios
+\usepackage{textcomp}				% Composición del texto
+\usepackage{units}					% Fracciones
+\usepackage{upgreek}					% Más letras griegas
+\usepackage{multicol}				% Múltiples columnas
+\usepackage{textpos}					% Posición del texto
+\usepackage{appendixnumberbeamer}	% Enumeración de las últimas slides
+
+\usepackage[ruled,linesnumbered]{algorithm2e}	% Algoritmos
+\usepackage{algorithmic}							% Más componentes de algoritmo
+
+\definecolor{UniBlue}{RGB}{0,82,204}				% Colores institucionales
+\setbeamercolor{title}{fg=white}
+\setbeamercolor{frametitle}{fg=white}
+\setbeamercolor{structure}{fg=UniBlue}
+
+\newcommand{\backupbegin}{
+	\newcounter{finalframe}
+	\setcounter{finalframe}{\value{framenumber}}
+}
+\newcommand{\backupend}{
+	\setcounter{framenumber}{\value{finalframe}}
+}
+
+\setbeamerfont{caption}{size=\small}
+\setbeamertemplate{section in toc}{
+  {\color{gray}\inserttocsectionnumber.}~\inserttocsection}
+ 
+ 
+\setbeamercolor{subsection in toc}{bg=white,fg=structure}
+\setbeamerfont{subsection in toc}{size=\footnotesize}
+\setbeamertemplate{subsection in toc}{
+        \hspace{1.2em}
+        {\color{orange}{$\blacktriangleright$}}
+        ~\inserttocsubsection\par}
+ 
+\setbeamertemplate{subsubsection in toc}{
+        \leavevmode\hspace{3.5em}
+        {\color{orange}\rule[0.3ex]{3pt}{3pt}}
+        ~\inserttocsubsubsection\par}
+        
+        
+\setbeamertemplate{itemize item}{\color{orange}$\bullet$}
+\setbeamertemplate{itemize subitem}{\color{orange}$\bullet$}
+\setbeamertemplate{itemize subsubitem}{\color{orange}$\bullet$}
+  
+\setbeamerfont{caption}{size=\scriptsize}
+
+\setbeamercolor{block title alerted}{bg=orange,fg=white}

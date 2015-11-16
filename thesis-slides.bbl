@@ -1,0 +1,65 @@
+\begin{thebibliography}{}
+
+\bibitem[Dong and Akl, 2006]{Dong06schedulingalgorithms}
+Dong, F. and Akl, S.~G. (2006).
+\newblock Scheduling algorithms for grid computing: State of the art and open
+  problems.
+
+\bibitem[Dong et~al., 2007]{DongTS07}
+Dong, M., Tong, L., and Sadler, B.~M. (2007).
+\newblock Information retrieval and processing in sensor networks:
+  Deterministic scheduling versus random access.
+\newblock {\em {IEEE} Transactions on Signal Processing}, 55(12):5806--5820.
+
+\bibitem[Fernandez et~al., 2013]{FernandezMKP13}
+Fernandez, R.~C., Migliavacca, M., Kalyvianaki, E., and Pietzuch, P. (2013).
+\newblock Integrating scale out and fault tolerance in stream processing using
+  operator state management.
+\newblock In {\em Proceedings of the {ACM} {SIGMOD} International Conference on
+  Management of Data, {SIGMOD} 2013, New York, NY, USA, June 22-27, 2013},
+  pages 725--736.
+
+\bibitem[Gedik et~al., 2014]{GedikSHW14}
+Gedik, B., Schneider, S., Hirzel, M., and Wu, K. (2014).
+\newblock Elastic scaling for data stream processing.
+\newblock {\em {IEEE} Trans. Parallel Distrib. Syst.}, 25(6):1447--1463.
+
+\bibitem[Gulisano et~al., 2012]{GulisanoJPSV12}
+Gulisano, V., Jim{\'{e}}nez{-}Peris, R., Pati{\~{n}}o{-}Mart{\'{\i}}nez, M.,
+  Soriente, C., and Valduriez, P. (2012).
+\newblock Streamcloud: An elastic and scalable data streaming system.
+\newblock {\em {IEEE} Trans. Parallel Distrib. Syst.}, 23(12):2351--2365.
+
+\bibitem[Ishii and Suzumura, 2011]{IshiiS11}
+Ishii, A. and Suzumura, T. (2011).
+\newblock Elastic stream computing with clouds.
+\newblock In {\em {IEEE} International Conference on Cloud Computing, {CLOUD}
+  2011, Washington, DC, USA, 4-9 July, 2011}, pages 195--202.
+
+\bibitem[Nguyen et~al., 2013]{NguyenSGSW13}
+Nguyen, H., Shen, Z., Gu, X., Subbiah, S., and Wilkes, J. (2013).
+\newblock {AGILE:} elastic distributed resource scaling for
+  infrastructure-as-a-service.
+\newblock In {\em 10th International Conference on Autonomic Computing,
+  ICAC'13, San Jose, CA, USA, June 26-28, 2013}, pages 69--82.
+
+\bibitem[Sheu and Chi, 2009]{SheuC09}
+Sheu, T. and Chi, Y. (2009).
+\newblock Intelligent stale-frame discards for real-time video streaming over
+  wireless ad hoc networks.
+\newblock {\em {EURASIP} J. Wireless Comm. and Networking}, 2009.
+
+\bibitem[Xing et~al., 2005]{XingZH05}
+Xing, Y., Zdonik, S.~B., and Hwang, J. (2005).
+\newblock Dynamic load distribution in the borealis stream processor.
+\newblock In {\em Proceedings of the 21st International Conference on Data
+  Engineering, {ICDE} 2005, 5-8 April 2005, Tokyo, Japan}, pages 791--802.
+
+\bibitem[Xu et~al., 2014]{XuCTS14}
+Xu, J., Chen, Z., Tang, J., and Su, S. (2014).
+\newblock T-storm: Traffic-aware online scheduling in storm.
+\newblock In {\em {IEEE} 34th International Conference on Distributed Computing
+  Systems, {ICDCS} 2014, Madrid, Spain, June 30 - July 3, 2014}, pages
+  535--544.
+
+\end{thebibliography}
