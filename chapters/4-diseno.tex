@@ -11,66 +11,87 @@
 \item Recursos lógicos del sistema según el enfoque dinámico
 \item Bajo overhead $\rightarrow$ Escalable
 \item Técnica de fisión
-\end{itemize}
-
-\begin{picture}(0,80)
-	\put(60,0){\includegraphics[scale=.5]{images/EjReplicacion-I.pdf}}
-\end{picture}
-
-\end{frame}
-
-\addtocounter{framenumber}{-1}
-\begin{frame}[t]{Diseño del modelo elástico}{Análisis del modelo elástico}
 \begin{itemize}
-\item Recursos lógicos del sistema según el enfoque dinámico
-\item Bajo overhead $\rightarrow$ Escalable
-\item Técnica de fisión
+	\item Elasticidad $\rightarrow$ Añadir/Reducir la cantidad de réplicas del operador
+	\item Solucionando:
+	\begin{itemize}
+		\item Sobrecarga
+		\item Utilización de recursos
+	\end{itemize}
 \end{itemize}
-
-\begin{picture}(0,120)
-	\put(60,0){\includegraphics[scale=.5]{images/EjReplicacion-II.pdf}}
-\end{picture}
-
-\end{frame}
-
-\addtocounter{framenumber}{-1}
-\begin{frame}[t]{Diseño del modelo elástico}{Análisis del modelo elástico}
-\begin{itemize}
-\item Recursos lógicos del sistema según el enfoque dinámico
-\item Bajo overhead $\rightarrow$ Escalable
-\item Técnica de fisión
 \end{itemize}
 
 \begin{picture}(0,150)
-	\put(60,0){\includegraphics[scale=.5]{images/EjReplicacion-III.pdf}}
+	\put(90,75){\includegraphics[scale=.35]{images/EjReplicacion-I.pdf}}
+\end{picture}
+
+\end{frame}
+
+\addtocounter{framenumber}{-1}
+\begin{frame}[t]{Diseño del modelo elástico}{Análisis del modelo elástico}
+\begin{itemize}
+\item Recursos lógicos del sistema según el enfoque dinámico
+\item Bajo overhead $\rightarrow$ Escalable
+\item Técnica de fisión
+\begin{itemize}
+	\item Elasticidad $\rightarrow$ Añadir/Reducir la cantidad de réplicas del operador
+	\item Solucionando:
+	\begin{itemize}
+		\item Sobrecarga
+		\item Utilización de recursos
+	\end{itemize}
+\end{itemize}
+\end{itemize}
+
+\begin{picture}(0,150)
+	\put(90,55){\includegraphics[scale=.35]{images/EjReplicacion-II.pdf}}
+\end{picture}
+
+\end{frame}
+
+\addtocounter{framenumber}{-1}
+\begin{frame}[t]{Diseño del modelo elástico}{Análisis del modelo elástico}
+\begin{itemize}
+\item Recursos lógicos del sistema según el enfoque dinámico
+\item Bajo overhead $\rightarrow$ Escalable
+\item Técnica de fisión
+\begin{itemize}
+	\item Elasticidad $\rightarrow$ Añadir/Reducir la cantidad de réplicas del operador
+	\item Solucionando:
+	\begin{itemize}
+		\item Sobrecarga
+		\item Utilización de recursos
+	\end{itemize}
+\end{itemize}
+\end{itemize}
+
+\begin{picture}(0,150)
+	\put(90,35){\includegraphics[scale=.35]{images/EjReplicacion-III.pdf}}
 \end{picture}
 
 \end{frame}
 
 \begin{frame}{Diseño del modelo elástico}{Análisis del modelo elástico}
 \begin{itemize}
-\item Umbrales $\rightarrow$ Tasa de rendimiento $\rho$
-	\begin{itemize}
-		\item $\rho = \frac{\lambda}{s \mu}$
-	\end{itemize}
+\item El modelo elástico está basado en la teoría de colas
+\begin{itemize}
+	\item Tasa de rendimiento $\rho$
+	\item $\rho = \frac{\lambda}{s \mu}$
+\end{itemize}	
 \end{itemize}
 
 \begin{figure}[!hb]
 	\centering
-	\includegraphics[scale=0.35]{images/AnalisisTeoriaColas.pdf}
+	\includegraphics[scale=0.45]{images/AnalisisTeoriaColas.pdf}
 \end{figure}
 
-\begin{itemize}
-\item Enfoque dinámico y elasticidad
-\begin{itemize}
-	\item Estados: ocioso, estable e inestable
-\end{itemize}
-\item Dos tipos de algoritmos: reactivo y predictivo
-\item Recolector de datos y administrador de réplicas
-\end{itemize}
 \end{frame}
 
 \begin{frame}{Diseño del modelo elástico}{Análisis del modelo elástico}
+\begin{itemize}
+	\item Se propone un modelo elástico compuesto por 4 módulos
+	\item Basado en el modelo MAPE (Monitoreo, Análisis, Procesamiento y Ejecución)
+\end{itemize}
 \begin{figure}[ht!]
   \centering
     \includegraphics[scale=0.3]{images/Diagrama.pdf}
@@ -79,18 +100,13 @@
 
 \subsection*{Recolección de los datos}
 \begin{frame}{Diseño del modelo elástico}{Recolección de los datos}
-El monitor de carga es el encargado de recolectar los datos
+El monitor de carga es el encargado de recolectar los datos del grafo de operadores
 \begin{itemize}
-	\item Algoritmo reactivo $\rightarrow$ Tasa de procesamiento $\rho$
-	\begin{itemize}
-		\item Tasa de rendimiento $\mu$ es homogénea
-		\item Ventana de tiempo $T_r$
-	\end{itemize}
+	\item $\rho = \frac{\lambda}{\mu s}$
+	\item Algoritmo reactivo
 	\item Algoritmo predictivo $\rightarrow$ Historial
 	\begin{itemize}
-		\item Ventanas de tiempo de $T$
 		\item $n$ muestras
-		\item Ventana de tiempo $T_p$
 	\end{itemize}
 \end{itemize}
 
@@ -98,8 +114,20 @@ El monitor de carga es el encargado de recolectar los datos
 
 \subsection*{Algoritmo reactivo}
 \begin{frame}{Diseño del modelo elástico}{Algoritmo reactivo}
+\begin{block}{Analizador de carga}
+	Este módulo está enfocado en analizar el comportamiento del operador en el momento
+\end{block}
+
+\pause
+\begin{alertblock}{}
+	\centering
+	Umbrales basados en el rendimiento del operador
+\end{alertblock}
+\end{frame}
+
+\begin{frame}{Diseño del modelo elástico}{Algoritmo reactivo}
 \begin{itemize}
-\item Análisis del estado del operador $\rightarrow$ Período de tiempo
+\item Análisis del estado del operador $\rightarrow$ Ventana de tiempo $T_r$
 \item Tasa de rendimiento $\rho$
 \end{itemize}
 \hspace{1cm}
@@ -108,42 +136,56 @@ El monitor de carga es el encargado de recolectar los datos
 	$1 \geqslant \rho \geqslant 0.5$ & Estable \\
 	$\rho < 0.5$ & Ocioso
 \end{tabular}
-\end{frame}
 
-\begin{frame}{Diseño del modelo elástico}{Algoritmo reactivo}
-\begin{itemize}
-\item Comportamiento de la tasa de rendimiento
-\end{itemize}
 \begin{figure}[ht!]
   \centering
-    \includegraphics[scale=0.6]{images/Umbrales.eps}
+    \includegraphics[scale=0.5]{images/Umbrales.eps}
 \end{figure}
 \end{frame}
 
 \subsection*{Algoritmo predictivo}
 \begin{frame}{Diseño del modelo elástico}{Algoritmo predictivo}
+\begin{block}{Predictor de carga}
+	Este módulo está enfocado en predecir el estado del operador basado en el comportamiento de su historia según las muestras obtenidas por el monitor
+\end{block}
+
+\pause
+\begin{alertblock}{}
+	\centering
+	Cadenas de Markov
+\end{alertblock}
+\end{frame}
+
+\begin{frame}{Diseño del modelo elástico}{Algoritmo predictivo}
 \begin{itemize}
 	\item Definir muestras en tiempos discretos, las cuales cambian con el tiempo según un proceso estocástico
+	\begin{itemize}
+		\item Tasa de rendimiento $\rho$
+	\end{itemize}
 	\item Determinar los estados finitos que se utilizan para la conformación de la cadena
+	\begin{itemize}
+		\item Ocioso
+		\item Estable
+		\item Inestable
+	\end{itemize}
 	\item Obtener una cantidad representativa de muestras para la construcción de la cadena de Markov en el período analizado
+	\begin{itemize}
+		\item $n$ muestras
+	\end{itemize}
 \end{itemize}
-
-\begin{figure}[ht!]
-  \centering
-    \includegraphics[scale=0.35]{images/CadenaMarkovPredictiva.pdf}
-\end{figure}
 
 \end{frame}
 
 
 \begin{frame}{Diseño del modelo elástico}{Algoritmo predictivo}
+\begin{multicols}{2}
 \begin{itemize}
 	\item Construcción de la matriz de transición
 		\begin{itemize}
 			\item La transición de estados de un período a otro
 		\end{itemize}
 \end{itemize}
-\vspace{-1cm}
+%\vspace{-5cm}
 \begin{center}
 \begin{align*}
 	P =
@@ -155,10 +197,24 @@ El monitor de carga es el encargado de recolectar los datos
 \end{align*}
 \end{center}
 
+\vspace*{10cm}
+
+\begin{itemize}
+	\item Obtención de la Cadena de Markov
+\end{itemize}
+\begin{figure}[ht!].
+  \centering
+    \includegraphics[scale=0.35]{images/CadenaMarkovPredictiva.pdf}
+\end{figure}
+\end{multicols}
+\end{frame}
+
+\begin{frame}{Diseño del modelo elástico}{Algoritmo predictivo}
 \begin{itemize}		
+	\item Si la cadena es irreducible y sus estados son aperiódicos y positivos recurrentes
 	\item Ecuación de Chapman-Kolmogórov $\rightarrow$ Distribución Estacionaria
 	\begin{itemize}
-		\item Comportamiento a futuro de la Cadena de Markov
+		\item La probabilidad que la cadena pueda estar en un estado $i$ en un futuro lejano
 	\end{itemize}
 \end{itemize}
 \vspace{-1cm}
@@ -169,11 +225,11 @@ El monitor de carga es el encargado de recolectar los datos
 \end{bmatrix} _{(t+1)}
 \end{align*}
 \end{center}
-\vspace{-0.5cm}
+\vspace{-0.5cm}	
 \begin{itemize}		
-	\item $\sigma(\Pi_1, \Pi_2, \Pi_3) > 0.25$
+	\item $\sigma(\Pi_1, \Pi_2, \Pi_3) > \alpha$
 	\begin{itemize}
-		\item No posee incertidumbre
+		\item No poseer incertidumbre
 		\item En caso contrario, no es un comportamiento determinante
 	\end{itemize}
 \end{itemize}
@@ -182,19 +238,19 @@ El monitor de carga es el encargado de recolectar los datos
 \subsection*{Administración del sistema}
 \begin{frame}{Diseño del modelo elástico}{Administración del sistema}
 \begin{itemize}
-\item Administración de réplicas de un operador
+\item Administración de la cantidad de réplicas requeridas de cada operador
 \item Recursos disponibles de la máquina
-\item Según el período se ejecuta
+\item Según la ventana de tiempo realiza un tipo análisis
 \begin{itemize}
+	\item $T_r \rightarrow $ Algoritmo reactivo
+	\begin{itemize}
+		\item $\beta$ alertas consecutivas $\rightarrow$ Modificar la cantidad de réplicas $\omega$
+	\end{itemize}
 	\item $T_p \rightarrow $ Algoritmo predictivo
 	\begin{itemize}
 		\item Menor frecuencia
 		\item Mayor cómputo
-		\item Modifica mayor cantidad de réplicas
-	\end{itemize}
-	\item $T_r \rightarrow $ Algoritmo reactivo
-	\begin{itemize}
-		\item Dos alertas $\rightarrow$ Modifica
+		\item Modifica una mayor cantidad de réplicas $\rightarrow \theta$
 	\end{itemize}
 \end{itemize}
 \end{itemize}

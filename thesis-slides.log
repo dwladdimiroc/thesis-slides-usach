@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.8.17)  16 NOV 2015 15:16
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.8.17)  19 NOV 2015 19:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1221,7 +1221,9 @@ Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
 (./thesis-slides.aux (./portada/title.aux) (./chapters/1-introduccion.aux)
 (./chapters/2-balancedecarga.aux) (./chapters/3-solucion.aux)
 (./chapters/4-diseno.aux) (./chapters/5-experimentos.aux)
-(./chapters/6-conclusiones.aux) (./appendix/1-appendix.aux))
+(./chapters/6-conclusiones.aux) (./appendix/1-appendix.aux)
+(./appendix/2-appendix.aux) (./appendix/3-appendix.aux)
+(./appendix/4-appendix.aux))
 \openout1 = `thesis-slides.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
@@ -1413,7 +1415,7 @@ LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <4> not available
 
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]) (./thesis-slides.toc)
-<images/LogoUsach.png, id=91, 162.6075pt x 217.0509pt>
+<images/LogoUsach.png, id=92, 162.6075pt x 217.0509pt>
 File: images/LogoUsach.png Graphic file (type png)
 
 <use images/LogoUsach.png>
@@ -1426,7 +1428,7 @@ Package pdftex.def Info: images/LogoUsach.png used on input line 11.
 \openout2 = `chapters/1-introduccion.aux'.
 
 
-(./chapters/1-introduccion.tex <images/Web.jpg, id=127, 578.16pt x 363.5181pt>
+(./chapters/1-introduccion.tex <images/Web.jpg, id=128, 578.16pt x 363.5181pt>
 File: images/Web.jpg Graphic file (type jpg)
 
 <use images/Web.jpg>
@@ -1472,107 +1474,99 @@ Package pdftex.def Info: images/LogoUsach.png used on input line 44.
 (pdftex.def)             Requested size: 21.95107pt x 29.3006pt.
  [5
 
-]
-File: images/LogoUsach.png Graphic file (type png)
-
-<use images/LogoUsach.png>
-Package pdftex.def Info: images/LogoUsach.png used on input line 52.
-(pdftex.def)             Requested size: 21.95107pt x 29.3006pt.
- [6
-
 ])
 \openout2 = `chapters/2-balancedecarga.aux'.
 
- (./chapters/2-balancedecarga.tex
-(./thesis-slides.toc)
+
+(./chapters/2-balancedecarga.tex (./thesis-slides.toc)
 File: images/LogoUsach.png Graphic file (type png)
- <use images/LogoUsach.png>
+
+<use images/LogoUsach.png>
 Package pdftex.def Info: images/LogoUsach.png used on input line 7.
 (pdftex.def)             Requested size: 21.95107pt x 29.3006pt.
- [7
+ [6
 
 
 
 ]
 File: images/LogoUsach.png Graphic file (type png)
+ <use images/LogoUsach.png>
+Package pdftex.def Info: images/LogoUsach.png used on input line 22.
+(pdftex.def)             Requested size: 21.95107pt x 29.3006pt.
+ [7
+
+]
+File: images/LogoUsach.png Graphic file (type png)
 
 <use images/LogoUsach.png>
-Package pdftex.def Info: images/LogoUsach.png used on input line 22.
+Package pdftex.def Info: images/LogoUsach.png used on input line 35.
 (pdftex.def)             Requested size: 21.95107pt x 29.3006pt.
  [8
 
 ]
 File: images/LogoUsach.png Graphic file (type png)
  <use images/LogoUsach.png>
-Package pdftex.def Info: images/LogoUsach.png used on input line 35.
-(pdftex.def)             Requested size: 21.95107pt x 29.3006pt.
- [9
-
-]
-File: images/LogoUsach.png Graphic file (type png)
-
-<use images/LogoUsach.png>
 Package pdftex.def Info: images/LogoUsach.png used on input line 49.
 (pdftex.def)             Requested size: 21.95107pt x 29.3006pt.
- [10
+ [9
 
 ])
 \openout2 = `chapters/3-solucion.aux'.
 
- (./chapters/3-solucion.tex
-(./thesis-slides.toc)
+
+(./chapters/3-solucion.tex (./thesis-slides.toc)
 File: images/LogoUsach.png Graphic file (type png)
  <use images/LogoUsach.png>
 Package pdftex.def Info: images/LogoUsach.png used on input line 7.
 (pdftex.def)             Requested size: 21.95107pt x 29.3006pt.
- [11
+
+[10
 
 
 
 ]
 File: images/LogoUsach.png Graphic file (type png)
+ <use images/LogoUsach.png>
+Package pdftex.def Info: images/LogoUsach.png used on input line 27.
+(pdftex.def)             Requested size: 21.95107pt x 29.3006pt.
+ [11
 
-<use images/LogoUsach.png>
+]
+File: images/LogoUsach.png Graphic file (type png)
+ <use images/LogoUsach.png>
 Package pdftex.def Info: images/LogoUsach.png used on input line 27.
 (pdftex.def)             Requested size: 21.95107pt x 29.3006pt.
  [12
 
 ]
 File: images/LogoUsach.png Graphic file (type png)
- <use images/LogoUsach.png>
+
+<use images/LogoUsach.png>
 Package pdftex.def Info: images/LogoUsach.png used on input line 27.
 (pdftex.def)             Requested size: 21.95107pt x 29.3006pt.
  [13
 
 ]
 File: images/LogoUsach.png Graphic file (type png)
-
-<use images/LogoUsach.png>
+ <use images/LogoUsach.png>
 Package pdftex.def Info: images/LogoUsach.png used on input line 27.
 (pdftex.def)             Requested size: 21.95107pt x 29.3006pt.
  [14
 
 ]
 File: images/LogoUsach.png Graphic file (type png)
- <use images/LogoUsach.png>
+
+<use images/LogoUsach.png>
 Package pdftex.def Info: images/LogoUsach.png used on input line 27.
 (pdftex.def)             Requested size: 21.95107pt x 29.3006pt.
  [15
 
 ]
 File: images/LogoUsach.png Graphic file (type png)
-
-<use images/LogoUsach.png>
-Package pdftex.def Info: images/LogoUsach.png used on input line 27.
-(pdftex.def)             Requested size: 21.95107pt x 29.3006pt.
- [16
-
-]
-File: images/LogoUsach.png Graphic file (type png)
  <use images/LogoUsach.png>
 Package pdftex.def Info: images/LogoUsach.png used on input line 27.
 (pdftex.def)             Requested size: 21.95107pt x 29.3006pt.
- [17
+ [16
 
 ]
 File: images/LogoUsach.png Graphic file (type png)
@@ -1580,7 +1574,7 @@ File: images/LogoUsach.png Graphic file (type png)
 <use images/LogoUsach.png>
 Package pdftex.def Info: images/LogoUsach.png used on input line 38.
 (pdftex.def)             Requested size: 21.95107pt x 29.3006pt.
- [18
+ [17
 
 ])
 \openout2 = `chapters/4-diseno.aux'.
@@ -1590,83 +1584,98 @@ File: images/LogoUsach.png Graphic file (type png)
 <use images/LogoUsach.png>
 Package pdftex.def Info: images/LogoUsach.png used on input line 7.
 (pdftex.def)             Requested size: 21.95107pt x 29.3006pt.
- [19
+ [18
 
 
 
 ]
-<images/EjReplicacion-I.pdf, id=661, 409.53pt x 88.33pt>
+<images/EjReplicacion-I.pdf, id=632, 409.53pt x 88.33pt>
 File: images/EjReplicacion-I.pdf Graphic file (type pdf)
 
 <use images/EjReplicacion-I.pdf>
-Package pdftex.def Info: images/EjReplicacion-I.pdf used on input line 20.
-(pdftex.def)             Requested size: 204.7645pt x 44.16489pt.
+Package pdftex.def Info: images/EjReplicacion-I.pdf used on input line 28.
+(pdftex.def)             Requested size: 143.33765pt x 30.91595pt.
 File: images/LogoUsach.png Graphic file (type png)
  <use images/LogoUsach.png>
-Package pdftex.def Info: images/LogoUsach.png used on input line 20.
+Package pdftex.def Info: images/LogoUsach.png used on input line 28.
 (pdftex.def)             Requested size: 21.95107pt x 29.3006pt.
- [20
 
- <./images/EjReplicacion-I.pdf>] <images/EjReplicacion-II.pdf, id=707, 409.53pt
- x 219.82124pt>
+Overfull \vbox (25.31989pt too high) detected at line 28
+ []
+
+[19
+
+ <./images/EjReplicacion-I.pdf>]
+<images/EjReplicacion-II.pdf, id=679, 409.53pt x 219.82124pt>
 File: images/EjReplicacion-II.pdf Graphic file (type pdf)
 
 <use images/EjReplicacion-II.pdf>
-Package pdftex.def Info: images/EjReplicacion-II.pdf used on input line 34.
-(pdftex.def)             Requested size: 204.7645pt x 109.91034pt.
+Package pdftex.def Info: images/EjReplicacion-II.pdf used on input line 50.
+(pdftex.def)             Requested size: 143.33765pt x 76.93858pt.
 File: images/LogoUsach.png Graphic file (type png)
  <use images/LogoUsach.png>
-Package pdftex.def Info: images/LogoUsach.png used on input line 34.
+Package pdftex.def Info: images/LogoUsach.png used on input line 50.
 (pdftex.def)             Requested size: 21.95107pt x 29.3006pt.
- [21
+
+Overfull \vbox (25.31989pt too high) detected at line 50
+ []
+
+[20
 
  <./images/EjReplicacion-II.pdf>]
-<images/EjReplicacion-III.pdf, id=756, 419.5675pt x 290.08376pt>
+<images/EjReplicacion-III.pdf, id=729, 419.5675pt x 290.08376pt>
 File: images/EjReplicacion-III.pdf Graphic file (type pdf)
 
 <use images/EjReplicacion-III.pdf>
-Package pdftex.def Info: images/EjReplicacion-III.pdf used on input line 48.
-(pdftex.def)             Requested size: 209.78323pt x 145.04152pt.
+Package pdftex.def Info: images/EjReplicacion-III.pdf used on input line 72.
+(pdftex.def)             Requested size: 146.85081pt x 101.53082pt.
 File: images/LogoUsach.png Graphic file (type png)
  <use images/LogoUsach.png>
-Package pdftex.def Info: images/LogoUsach.png used on input line 48.
+Package pdftex.def Info: images/LogoUsach.png used on input line 72.
 (pdftex.def)             Requested size: 21.95107pt x 29.3006pt.
- [22
+
+Overfull \vbox (25.31989pt too high) detected at line 72
+ []
+
+[21
 
  <./images/EjReplicacion-III.pdf>]
-<images/AnalisisTeoriaColas.pdf, id=809, 654.445pt x 91.34125pt>
+<images/AnalisisTeoriaColas.pdf, id=782, 654.445pt x 91.34125pt>
 File: images/AnalisisTeoriaColas.pdf Graphic file (type pdf)
 
 <use images/AnalisisTeoriaColas.pdf>
-Package pdftex.def Info: images/AnalisisTeoriaColas.pdf used on input line 71.
-(pdftex.def)             Requested size: 229.05917pt x 31.96991pt.
+Package pdftex.def Info: images/AnalisisTeoriaColas.pdf used on input line 88.
+(pdftex.def)             Requested size: 294.49753pt x 41.10316pt.
 File: images/LogoUsach.png Graphic file (type png)
  <use images/LogoUsach.png>
-Package pdftex.def Info: images/LogoUsach.png used on input line 71.
+Package pdftex.def Info: images/LogoUsach.png used on input line 88.
 (pdftex.def)             Requested size: 21.95107pt x 29.3006pt.
- [23
+ [22
 
  <./images/AnalisisTeoriaColas.pdf>]
-<images/Diagrama.pdf, id=844, 695.59875pt x 699.61375pt>
+<images/Diagrama.pdf, id=816, 520.94624pt x 515.9275pt>
 File: images/Diagrama.pdf Graphic file (type pdf)
 
 <use images/Diagrama.pdf>
-Package pdftex.def Info: images/Diagrama.pdf used on input line 78.
-(pdftex.def)             Requested size: 208.68123pt x 209.88574pt.
+Package pdftex.def Info: images/Diagrama.pdf used on input line 99.
+(pdftex.def)             Requested size: 156.28508pt x 154.77943pt.
 File: images/LogoUsach.png Graphic file (type png)
  <use images/LogoUsach.png>
-Package pdftex.def Info: images/LogoUsach.png used on input line 78.
+Package pdftex.def Info: images/LogoUsach.png used on input line 99.
 (pdftex.def)             Requested size: 21.95107pt x 29.3006pt.
-
-Overfull \vbox (4.81516pt too high) detected at line 78
- []
-
-[24
+ [23
 
  <./images/Diagrama.pdf>]
 File: images/LogoUsach.png Graphic file (type png)
  <use images/LogoUsach.png>
-Package pdftex.def Info: images/LogoUsach.png used on input line 97.
+Package pdftex.def Info: images/LogoUsach.png used on input line 113.
+(pdftex.def)             Requested size: 21.95107pt x 29.3006pt.
+ [24
+
+]
+File: images/LogoUsach.png Graphic file (type png)
+ <use images/LogoUsach.png>
+Package pdftex.def Info: images/LogoUsach.png used on input line 126.
 (pdftex.def)             Requested size: 21.95107pt x 29.3006pt.
  [25
 
@@ -1674,63 +1683,89 @@ Package pdftex.def Info: images/LogoUsach.png used on input line 97.
 File: images/LogoUsach.png Graphic file (type png)
 
 <use images/LogoUsach.png>
-Package pdftex.def Info: images/LogoUsach.png used on input line 111.
+Package pdftex.def Info: images/LogoUsach.png used on input line 126.
 (pdftex.def)             Requested size: 21.95107pt x 29.3006pt.
  [26
 
 ]
 Package epstopdf Info: Source file: <images/Umbrales.eps>
-(epstopdf)                    date: 2015-09-25 10:30:39
-(epstopdf)                    size: 20546 bytes
+(epstopdf)                    date: 2015-11-17 13:08:42
+(epstopdf)                    size: 23818 bytes
 (epstopdf)             Output file: <images/Umbrales-eps-converted-to.pdf>
-(epstopdf)                    date: 2015-09-25 10:30:39
-(epstopdf)                    size: 7517 bytes
+(epstopdf)                    date: 2015-11-17 13:09:35
+(epstopdf)                    size: 8920 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/Umbrales-eps-conver
 ted-to.pdf images/Umbrales.eps>
-(epstopdf)             \includegraphics on input line 121.
+(epstopdf)             \includegraphics on input line 144.
 Package epstopdf Info: Output file is already uptodate.
 
-<images/Umbrales-eps-converted-to.pdf, id=974, 361.35pt x 252.945pt>
+<images/Umbrales-eps-converted-to.pdf, id=977, 361.35pt x 252.945pt>
 File: images/Umbrales-eps-converted-to.pdf Graphic file (type pdf)
 
 <use images/Umbrales-eps-converted-to.pdf>
 Package pdftex.def Info: images/Umbrales-eps-converted-to.pdf used on input lin
-e 121.
-(pdftex.def)             Requested size: 216.81168pt x 151.76816pt.
+e 144.
+(pdftex.def)             Requested size: 180.67456pt x 126.47218pt.
 File: images/LogoUsach.png Graphic file (type png)
  <use images/LogoUsach.png>
-Package pdftex.def Info: images/LogoUsach.png used on input line 121.
+Package pdftex.def Info: images/LogoUsach.png used on input line 144.
 (pdftex.def)             Requested size: 21.95107pt x 29.3006pt.
  [27
 
  <./images/Umbrales-eps-converted-to.pdf>]
-<images/CadenaMarkovPredictiva.pdf, id=1007, 348.30125pt x 279.0425pt>
-File: images/CadenaMarkovPredictiva.pdf Graphic file (type pdf)
-
-<use images/CadenaMarkovPredictiva.pdf>
-Package pdftex.def Info: images/CadenaMarkovPredictiva.pdf used on input line 1
-36.
-(pdftex.def)             Requested size: 121.90726pt x 97.66634pt.
 File: images/LogoUsach.png Graphic file (type png)
  <use images/LogoUsach.png>
-Package pdftex.def Info: images/LogoUsach.png used on input line 136.
+Package pdftex.def Info: images/LogoUsach.png used on input line 157.
 (pdftex.def)             Requested size: 21.95107pt x 29.3006pt.
  [28
-
- <./images/CadenaMarkovPredictiva.pdf>]
-File: images/LogoUsach.png Graphic file (type png)
- <use images/LogoUsach.png>
-Package pdftex.def Info: images/LogoUsach.png used on input line 180.
-(pdftex.def)             Requested size: 21.95107pt x 29.3006pt.
- [29
 
 ]
 File: images/LogoUsach.png Graphic file (type png)
 
 <use images/LogoUsach.png>
-Package pdftex.def Info: images/LogoUsach.png used on input line 201.
+Package pdftex.def Info: images/LogoUsach.png used on input line 157.
+(pdftex.def)             Requested size: 21.95107pt x 29.3006pt.
+ [29
+
+]
+File: images/LogoUsach.png Graphic file (type png)
+ <use images/LogoUsach.png>
+Package pdftex.def Info: images/LogoUsach.png used on input line 177.
 (pdftex.def)             Requested size: 21.95107pt x 29.3006pt.
  [30
+
+]
+<images/CadenaMarkovPredictiva.pdf, id=1103, 348.30125pt x 279.0425pt>
+File: images/CadenaMarkovPredictiva.pdf Graphic file (type pdf)
+
+<use images/CadenaMarkovPredictiva.pdf>
+Package pdftex.def Info: images/CadenaMarkovPredictiva.pdf used on input line 2
+10.
+(pdftex.def)             Requested size: 121.90726pt x 97.66634pt.
+File: images/LogoUsach.png Graphic file (type png)
+ <use images/LogoUsach.png>
+Package pdftex.def Info: images/LogoUsach.png used on input line 210.
+(pdftex.def)             Requested size: 21.95107pt x 29.3006pt.
+
+Overfull \vbox (206.9294pt too high) detected at line 210
+ []
+
+[31
+
+ <./images/CadenaMarkovPredictiva.pdf>]
+File: images/LogoUsach.png Graphic file (type png)
+ <use images/LogoUsach.png>
+Package pdftex.def Info: images/LogoUsach.png used on input line 236.
+(pdftex.def)             Requested size: 21.95107pt x 29.3006pt.
+ [32
+
+]
+File: images/LogoUsach.png Graphic file (type png)
+
+<use images/LogoUsach.png>
+Package pdftex.def Info: images/LogoUsach.png used on input line 257.
+(pdftex.def)             Requested size: 21.95107pt x 29.3006pt.
+ [33
 
 ])
 \openout2 = `chapters/5-experimentos.aux'.
@@ -1741,12 +1776,12 @@ File: images/LogoUsach.png Graphic file (type png)
  <use images/LogoUsach.png>
 Package pdftex.def Info: images/LogoUsach.png used on input line 7.
 (pdftex.def)             Requested size: 21.95107pt x 29.3006pt.
- [31
+ [34
 
 
 
 ]
-<images/DistribucionCarga-I.pdf, id=1138, 407.5225pt x 328.22626pt>
+<images/DistribucionCarga-I.pdf, id=1231, 407.5225pt x 328.22626pt>
 File: images/DistribucionCarga-I.pdf Graphic file (type pdf)
 
 <use images/DistribucionCarga-I.pdf>
@@ -1756,10 +1791,10 @@ File: images/LogoUsach.png Graphic file (type png)
  <use images/LogoUsach.png>
 Package pdftex.def Info: images/LogoUsach.png used on input line 25.
 (pdftex.def)             Requested size: 21.95107pt x 29.3006pt.
- [32
+ [35
 
  <./images/DistribucionCarga-I.pdf>]
-<images/DistribucionCarga-II.pdf, id=1220, 407.5225pt x 328.22626pt>
+<images/DistribucionCarga-II.pdf, id=1313, 407.5225pt x 328.22626pt>
 File: images/DistribucionCarga-II.pdf Graphic file (type pdf)
 
 <use images/DistribucionCarga-II.pdf>
@@ -1770,10 +1805,10 @@ File: images/LogoUsach.png Graphic file (type png)
  <use images/LogoUsach.png>
 Package pdftex.def Info: images/LogoUsach.png used on input line 44.
 (pdftex.def)             Requested size: 21.95107pt x 29.3006pt.
- [33
+ [36
 
  <./images/DistribucionCarga-II.pdf>]
-<images/DistribucionCarga-III.pdf, id=1304, 407.5225pt x 328.22626pt>
+<images/DistribucionCarga-III.pdf, id=1397, 407.5225pt x 328.22626pt>
 File: images/DistribucionCarga-III.pdf Graphic file (type pdf)
 
 <use images/DistribucionCarga-III.pdf>
@@ -1784,299 +1819,272 @@ File: images/LogoUsach.png Graphic file (type png)
  <use images/LogoUsach.png>
 Package pdftex.def Info: images/LogoUsach.png used on input line 63.
 (pdftex.def)             Requested size: 21.95107pt x 29.3006pt.
- [34
+ [37
 
  <./images/DistribucionCarga-III.pdf>]
 File: images/LogoUsach.png Graphic file (type png)
  <use images/LogoUsach.png>
-Package pdftex.def Info: images/LogoUsach.png used on input line 82.
+Package pdftex.def Info: images/LogoUsach.png used on input line 81.
 (pdftex.def)             Requested size: 21.95107pt x 29.3006pt.
- [35
+ [38
 
 ]
-<images/App1.pdf, id=1424, 568.1225pt x 91.34125pt>
+<images/App1.pdf, id=1518, 568.1225pt x 91.34125pt>
 File: images/App1.pdf Graphic file (type pdf)
  <use images/App1.pdf>
-Package pdftex.def Info: images/App1.pdf used on input line 92.
+Package pdftex.def Info: images/App1.pdf used on input line 94.
 (pdftex.def)             Requested size: 312.46832pt x 50.23784pt.
 File: images/LogoUsach.png Graphic file (type png)
 
 <use images/LogoUsach.png>
-Package pdftex.def Info: images/LogoUsach.png used on input line 92.
+Package pdftex.def Info: images/LogoUsach.png used on input line 94.
 (pdftex.def)             Requested size: 21.95107pt x 29.3006pt.
- [36
+ [39
 
  <./images/App1.pdf>]
-<images/App2.pdf, id=1457, 457.71pt x 91.34125pt>
-File: images/App2.pdf Graphic file (type pdf)
- <use images/App2.pdf>
-Package pdftex.def Info: images/App2.pdf used on input line 103.
-(pdftex.def)             Requested size: 297.50798pt x 59.3711pt.
-File: images/LogoUsach.png Graphic file (type png)
-
-<use images/LogoUsach.png>
-Package pdftex.def Info: images/LogoUsach.png used on input line 103.
-(pdftex.def)             Requested size: 21.95107pt x 29.3006pt.
- [37
-
- <./images/App2.pdf>]
-<images/App3.pdf, id=1490, 457.71pt x 91.34125pt>
+<images/App3.pdf, id=1549, 457.71pt x 91.34125pt>
 File: images/App3.pdf Graphic file (type pdf)
  <use images/App3.pdf>
-Package pdftex.def Info: images/App3.pdf used on input line 127.
+Package pdftex.def Info: images/App3.pdf used on input line 124.
 (pdftex.def)             Requested size: 297.50798pt x 59.3711pt.
 File: images/LogoUsach.png Graphic file (type png)
 
 <use images/LogoUsach.png>
-Package pdftex.def Info: images/LogoUsach.png used on input line 127.
+Package pdftex.def Info: images/LogoUsach.png used on input line 124.
 (pdftex.def)             Requested size: 21.95107pt x 29.3006pt.
- [38
+ [40
 
  <./images/App3.pdf>]
 File: images/LogoUsach.png Graphic file (type png)
  <use images/LogoUsach.png>
-Package pdftex.def Info: images/LogoUsach.png used on input line 150.
+Package pdftex.def Info: images/LogoUsach.png used on input line 146.
 (pdftex.def)             Requested size: 21.95107pt x 29.3006pt.
 
-[39
+[41
 
 ]
-Package epstopdf Info: Source file: <images/exp/app1/uniform/cm/eventCount.eps>
-
-(epstopdf)                    date: 2015-11-12 15:59:27
-(epstopdf)                    size: 45169 bytes
-(epstopdf)             Output file: <images/exp/app1/uniform/cm/eventCount-eps-
-converted-to.pdf>
-(epstopdf)                    date: 2015-11-13 16:42:26
-(epstopdf)                    size: 16199 bytes
-(epstopdf)             Command: <repstopdf --outfile=images/exp/app1/uniform/cm
-/eventCount-eps-converted-to.pdf images/exp/app1/uniform/cm/eventCount.eps>
-(epstopdf)             \includegraphics on input line 172.
+Package epstopdf Info: Source file: <images/exp/app1/dynamic/adaptative/exp1-pr
+ocessSystem.eps>
+(epstopdf)                    date: 2015-11-18 18:07:26
+(epstopdf)                    size: 37137 bytes
+(epstopdf)             Output file: <images/exp/app1/dynamic/adaptative/exp1-pr
+ocessSystem-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-11-18 18:11:09
+(epstopdf)                    size: 15182 bytes
+(epstopdf)             Command: <repstopdf --outfile=images/exp/app1/dynamic/ad
+aptative/exp1-processSystem-eps-converted-to.pdf images/exp/app1/dynamic/adapta
+tive/exp1-processSystem.eps>
+(epstopdf)             \includegraphics on input line 168.
 Package epstopdf Info: Output file is already uptodate.
 
-<images/exp/app1/uniform/cm/eventCount-eps-converted-to.pdf, id=1551, 361.35pt 
-x 252.945pt>
-File: images/exp/app1/uniform/cm/eventCount-eps-converted-to.pdf Graphic file (
-type pdf)
- <use images/exp/app1/uniform/cm/eventCount-eps-converted-to.pdf>
-Package pdftex.def Info: images/exp/app1/uniform/cm/eventCount-eps-converted-to
-.pdf used on input line 172.
-(pdftex.def)             Requested size: 171.64304pt x 120.15012pt.
+<images/exp/app1/dynamic/adaptative/exp1-processSystem-eps-converted-to.pdf, id
+=1610, 415.5525pt x 252.945pt>
+File: images/exp/app1/dynamic/adaptative/exp1-processSystem-eps-converted-to.pd
+f Graphic file (type pdf)
 
-Overfull \hbox (5.49539pt too wide) in paragraph at lines 172--172
- [] 
- []
-
-Package epstopdf Info: Source file: <images/exp/app1/uniform/sm/eventCount.eps>
-
-(epstopdf)                    date: 2015-11-12 15:59:43
-(epstopdf)                    size: 45107 bytes
-(epstopdf)             Output file: <images/exp/app1/uniform/sm/eventCount-eps-
-converted-to.pdf>
-(epstopdf)                    date: 2015-11-13 16:42:26
-(epstopdf)                    size: 19398 bytes
-(epstopdf)             Command: <repstopdf --outfile=images/exp/app1/uniform/sm
-/eventCount-eps-converted-to.pdf images/exp/app1/uniform/sm/eventCount.eps>
-(epstopdf)             \includegraphics on input line 172.
+<use images/exp/app1/dynamic/adaptative/exp1-processSystem-eps-converted-to.pdf
+>
+Package pdftex.def Info: images/exp/app1/dynamic/adaptative/exp1-processSystem-
+eps-converted-to.pdf used on input line 168.
+(pdftex.def)             Requested size: 166.21805pt x 101.17621pt.
+Package epstopdf Info: Source file: <images/exp/app1/dynamic/baseline/exp1-proc
+essSystem.eps>
+(epstopdf)                    date: 2015-11-18 18:10:25
+(epstopdf)                    size: 36887 bytes
+(epstopdf)             Output file: <images/exp/app1/dynamic/baseline/exp1-proc
+essSystem-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-11-18 18:11:09
+(epstopdf)                    size: 14865 bytes
+(epstopdf)             Command: <repstopdf --outfile=images/exp/app1/dynamic/ba
+seline/exp1-processSystem-eps-converted-to.pdf images/exp/app1/dynamic/baseline
+/exp1-processSystem.eps>
+(epstopdf)             \includegraphics on input line 168.
 Package epstopdf Info: Output file is already uptodate.
 
-<images/exp/app1/uniform/sm/eventCount-eps-converted-to.pdf, id=1552, 361.35pt 
-x 252.945pt>
-File: images/exp/app1/uniform/sm/eventCount-eps-converted-to.pdf Graphic file (
-type pdf)
- <use images/exp/app1/uniform/sm/eventCount-eps-converted-to.pdf>
-Package pdftex.def Info: images/exp/app1/uniform/sm/eventCount-eps-converted-to
-.pdf used on input line 172.
-(pdftex.def)             Requested size: 171.64304pt x 120.15012pt.
+<images/exp/app1/dynamic/baseline/exp1-processSystem-eps-converted-to.pdf, id=1
+611, 415.5525pt x 252.945pt>
+File: images/exp/app1/dynamic/baseline/exp1-processSystem-eps-converted-to.pdf 
+Graphic file (type pdf)
 
-Overfull \hbox (5.49539pt too wide) in paragraph at lines 172--172
- [] 
- []
-
+<use images/exp/app1/dynamic/baseline/exp1-processSystem-eps-converted-to.pdf>
+Package pdftex.def Info: images/exp/app1/dynamic/baseline/exp1-processSystem-ep
+s-converted-to.pdf used on input line 168.
+(pdftex.def)             Requested size: 166.21805pt x 101.17621pt.
 File: images/LogoUsach.png Graphic file (type png)
+
 <use images/LogoUsach.png>
-Package pdftex.def Info: images/LogoUsach.png used on input line 172.
-(pdftex.def)             Requested size: 21.95107pt x 29.3006pt.
- [40
-
- <./images/exp/app1/uniform/cm/eventCount-eps-converted-to.pdf> <./images/exp/a
-pp1/uniform/sm/eventCount-eps-converted-to.pdf>]
-Package epstopdf Info: Source file: <images/exp/app1/normal/cm/eventCount.eps>
-(epstopdf)                    date: 2015-11-12 16:00:44
-(epstopdf)                    size: 44612 bytes
-(epstopdf)             Output file: <images/exp/app1/normal/cm/eventCount-eps-c
-onverted-to.pdf>
-(epstopdf)                    date: 2015-11-13 16:42:29
-(epstopdf)                    size: 18332 bytes
-(epstopdf)             Command: <repstopdf --outfile=images/exp/app1/normal/cm/
-eventCount-eps-converted-to.pdf images/exp/app1/normal/cm/eventCount.eps>
-(epstopdf)             \includegraphics on input line 192.
-Package epstopdf Info: Output file is already uptodate.
-
-<images/exp/app1/normal/cm/eventCount-eps-converted-to.pdf, id=1591, 361.35pt x
- 252.945pt>
-File: images/exp/app1/normal/cm/eventCount-eps-converted-to.pdf Graphic file (t
-ype pdf)
- <use images/exp/app1/normal/cm/eventCount-eps-converted-to.pdf>
-Package pdftex.def Info: images/exp/app1/normal/cm/eventCount-eps-converted-to.
-pdf used on input line 192.
-(pdftex.def)             Requested size: 171.64304pt x 120.15012pt.
-
-Overfull \hbox (5.49539pt too wide) in paragraph at lines 192--192
- [] 
- []
-
-Package epstopdf Info: Source file: <images/exp/app1/normal/sm/eventCount.eps>
-(epstopdf)                    date: 2015-11-12 16:00:06
-(epstopdf)                    size: 44572 bytes
-(epstopdf)             Output file: <images/exp/app1/normal/sm/eventCount-eps-c
-onverted-to.pdf>
-(epstopdf)                    date: 2015-11-13 16:42:29
-(epstopdf)                    size: 18421 bytes
-(epstopdf)             Command: <repstopdf --outfile=images/exp/app1/normal/sm/
-eventCount-eps-converted-to.pdf images/exp/app1/normal/sm/eventCount.eps>
-(epstopdf)             \includegraphics on input line 192.
-Package epstopdf Info: Output file is already uptodate.
-
-<images/exp/app1/normal/sm/eventCount-eps-converted-to.pdf, id=1592, 361.35pt x
- 252.945pt>
-File: images/exp/app1/normal/sm/eventCount-eps-converted-to.pdf Graphic file (t
-ype pdf)
- <use images/exp/app1/normal/sm/eventCount-eps-converted-to.pdf>
-Package pdftex.def Info: images/exp/app1/normal/sm/eventCount-eps-converted-to.
-pdf used on input line 192.
-(pdftex.def)             Requested size: 171.64304pt x 120.15012pt.
-
-Overfull \hbox (5.49539pt too wide) in paragraph at lines 192--192
- [] 
- []
-
-File: images/LogoUsach.png Graphic file (type png)
-<use images/LogoUsach.png>
-Package pdftex.def Info: images/LogoUsach.png used on input line 192.
-(pdftex.def)             Requested size: 21.95107pt x 29.3006pt.
- [41
-
- <./images/exp/app1/normal/cm/eventCount-eps-converted-to.pdf> <./images/exp/ap
-p1/normal/sm/eventCount-eps-converted-to.pdf>]
-Package epstopdf Info: Source file: <images/exp/app2/uniform/cm/eventCount.eps>
-
-(epstopdf)                    date: 2015-11-12 15:58:33
-(epstopdf)                    size: 39156 bytes
-(epstopdf)             Output file: <images/exp/app2/uniform/cm/eventCount-eps-
-converted-to.pdf>
-(epstopdf)                    date: 2015-11-13 16:42:31
-(epstopdf)                    size: 17578 bytes
-(epstopdf)             Command: <repstopdf --outfile=images/exp/app2/uniform/cm
-/eventCount-eps-converted-to.pdf images/exp/app2/uniform/cm/eventCount.eps>
-(epstopdf)             \includegraphics on input line 214.
-Package epstopdf Info: Output file is already uptodate.
-
-<images/exp/app2/uniform/cm/eventCount-eps-converted-to.pdf, id=1631, 361.35pt 
-x 252.945pt>
-File: images/exp/app2/uniform/cm/eventCount-eps-converted-to.pdf Graphic file (
-type pdf)
- <use images/exp/app2/uniform/cm/eventCount-eps-converted-to.pdf>
-Package pdftex.def Info: images/exp/app2/uniform/cm/eventCount-eps-converted-to
-.pdf used on input line 214.
-(pdftex.def)             Requested size: 171.64304pt x 120.15012pt.
-
-Overfull \hbox (5.49539pt too wide) in paragraph at lines 214--214
- [] 
- []
-
-Package epstopdf Info: Source file: <images/exp/app2/uniform/sm/eventCount.eps>
-
-(epstopdf)                    date: 2015-11-12 15:58:10
-(epstopdf)                    size: 39194 bytes
-(epstopdf)             Output file: <images/exp/app2/uniform/sm/eventCount-eps-
-converted-to.pdf>
-(epstopdf)                    date: 2015-11-13 16:42:31
-(epstopdf)                    size: 14881 bytes
-(epstopdf)             Command: <repstopdf --outfile=images/exp/app2/uniform/sm
-/eventCount-eps-converted-to.pdf images/exp/app2/uniform/sm/eventCount.eps>
-(epstopdf)             \includegraphics on input line 214.
-Package epstopdf Info: Output file is already uptodate.
-
-<images/exp/app2/uniform/sm/eventCount-eps-converted-to.pdf, id=1632, 361.35pt 
-x 252.945pt>
-File: images/exp/app2/uniform/sm/eventCount-eps-converted-to.pdf Graphic file (
-type pdf)
- <use images/exp/app2/uniform/sm/eventCount-eps-converted-to.pdf>
-Package pdftex.def Info: images/exp/app2/uniform/sm/eventCount-eps-converted-to
-.pdf used on input line 214.
-(pdftex.def)             Requested size: 171.64304pt x 120.15012pt.
-
-Overfull \hbox (5.49539pt too wide) in paragraph at lines 214--214
- [] 
- []
-
-File: images/LogoUsach.png Graphic file (type png)
-<use images/LogoUsach.png>
-Package pdftex.def Info: images/LogoUsach.png used on input line 214.
+Package pdftex.def Info: images/LogoUsach.png used on input line 168.
 (pdftex.def)             Requested size: 21.95107pt x 29.3006pt.
  [42
 
- <./images/exp/app2/uniform/cm/eventCount-eps-converted-to.pdf> <./images/exp/a
-pp2/uniform/sm/eventCount-eps-converted-to.pdf>]
-Package epstopdf Info: Source file: <images/exp/app2/normal/cm/eventCount.eps>
-(epstopdf)                    date: 2015-11-12 16:06:01
-(epstopdf)                    size: 38673 bytes
-(epstopdf)             Output file: <images/exp/app2/normal/cm/eventCount-eps-c
-onverted-to.pdf>
-(epstopdf)                    date: 2015-11-13 16:42:33
-(epstopdf)                    size: 17256 bytes
-(epstopdf)             Command: <repstopdf --outfile=images/exp/app2/normal/cm/
-eventCount-eps-converted-to.pdf images/exp/app2/normal/cm/eventCount.eps>
-(epstopdf)             \includegraphics on input line 234.
+ <./images/exp/app1/dynamic/adaptative/exp1-processSystem-eps-converted-to.pdf>
+ <./images/exp/app1/dynamic/baseline/exp1-processSystem-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <images/exp/app1/dynamic/adaptative/exp1-ev
+entCount.eps>
+(epstopdf)                    date: 2015-11-18 18:07:26
+(epstopdf)                    size: 41410 bytes
+(epstopdf)             Output file: <images/exp/app1/dynamic/adaptative/exp1-ev
+entCount-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-11-18 18:11:10
+(epstopdf)                    size: 14262 bytes
+(epstopdf)             Command: <repstopdf --outfile=images/exp/app1/dynamic/ad
+aptative/exp1-eventCount-eps-converted-to.pdf images/exp/app1/dynamic/adaptativ
+e/exp1-eventCount.eps>
+(epstopdf)             \includegraphics on input line 188.
 Package epstopdf Info: Output file is already uptodate.
 
-<images/exp/app2/normal/cm/eventCount-eps-converted-to.pdf, id=1672, 361.35pt x
- 252.945pt>
-File: images/exp/app2/normal/cm/eventCount-eps-converted-to.pdf Graphic file (t
-ype pdf)
- <use images/exp/app2/normal/cm/eventCount-eps-converted-to.pdf>
-Package pdftex.def Info: images/exp/app2/normal/cm/eventCount-eps-converted-to.
-pdf used on input line 234.
-(pdftex.def)             Requested size: 171.64304pt x 120.15012pt.
+<images/exp/app1/dynamic/adaptative/exp1-eventCount-eps-converted-to.pdf, id=16
+50, 415.5525pt x 252.945pt>
+File: images/exp/app1/dynamic/adaptative/exp1-eventCount-eps-converted-to.pdf G
+raphic file (type pdf)
 
-Overfull \hbox (5.49539pt too wide) in paragraph at lines 234--234
- [] 
- []
-
-Package epstopdf Info: Source file: <images/exp/app2/normal/sm/eventCount.eps>
-(epstopdf)                    date: 2015-11-12 16:05:45
-(epstopdf)                    size: 39190 bytes
-(epstopdf)             Output file: <images/exp/app2/normal/sm/eventCount-eps-c
-onverted-to.pdf>
-(epstopdf)                    date: 2015-11-13 16:42:33
-(epstopdf)                    size: 14911 bytes
-(epstopdf)             Command: <repstopdf --outfile=images/exp/app2/normal/sm/
-eventCount-eps-converted-to.pdf images/exp/app2/normal/sm/eventCount.eps>
-(epstopdf)             \includegraphics on input line 234.
+<use images/exp/app1/dynamic/adaptative/exp1-eventCount-eps-converted-to.pdf>
+Package pdftex.def Info: images/exp/app1/dynamic/adaptative/exp1-eventCount-eps
+-converted-to.pdf used on input line 188.
+(pdftex.def)             Requested size: 166.21805pt x 101.17621pt.
+Package epstopdf Info: Source file: <images/exp/app1/dynamic/baseline/exp1-even
+tCount.eps>
+(epstopdf)                    date: 2015-11-18 18:08:01
+(epstopdf)                    size: 41058 bytes
+(epstopdf)             Output file: <images/exp/app1/dynamic/baseline/exp1-even
+tCount-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-11-18 18:11:10
+(epstopdf)                    size: 17503 bytes
+(epstopdf)             Command: <repstopdf --outfile=images/exp/app1/dynamic/ba
+seline/exp1-eventCount-eps-converted-to.pdf images/exp/app1/dynamic/baseline/ex
+p1-eventCount.eps>
+(epstopdf)             \includegraphics on input line 188.
 Package epstopdf Info: Output file is already uptodate.
 
-<images/exp/app2/normal/sm/eventCount-eps-converted-to.pdf, id=1673, 361.35pt x
- 252.945pt>
-File: images/exp/app2/normal/sm/eventCount-eps-converted-to.pdf Graphic file (t
-ype pdf)
- <use images/exp/app2/normal/sm/eventCount-eps-converted-to.pdf>
-Package pdftex.def Info: images/exp/app2/normal/sm/eventCount-eps-converted-to.
-pdf used on input line 234.
-(pdftex.def)             Requested size: 171.64304pt x 120.15012pt.
+<images/exp/app1/dynamic/baseline/exp1-eventCount-eps-converted-to.pdf, id=1651
+, 415.5525pt x 252.945pt>
+File: images/exp/app1/dynamic/baseline/exp1-eventCount-eps-converted-to.pdf Gra
+phic file (type pdf)
 
-Overfull \hbox (5.49539pt too wide) in paragraph at lines 234--234
- [] 
- []
-
+<use images/exp/app1/dynamic/baseline/exp1-eventCount-eps-converted-to.pdf>
+Package pdftex.def Info: images/exp/app1/dynamic/baseline/exp1-eventCount-eps-c
+onverted-to.pdf used on input line 188.
+(pdftex.def)             Requested size: 166.21805pt x 101.17621pt.
 File: images/LogoUsach.png Graphic file (type png)
+
 <use images/LogoUsach.png>
-Package pdftex.def Info: images/LogoUsach.png used on input line 234.
+Package pdftex.def Info: images/LogoUsach.png used on input line 188.
 (pdftex.def)             Requested size: 21.95107pt x 29.3006pt.
  [43
 
- <./images/exp/app2/normal/cm/eventCount-eps-converted-to.pdf> <./images/exp/ap
-p2/normal/sm/eventCount-eps-converted-to.pdf>]
+ <./images/exp/app1/dynamic/adaptative/exp1-eventCount-eps-converted-to.pdf> <.
+/images/exp/app1/dynamic/baseline/exp1-eventCount-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <images/exp/app1/dynamic/adaptative/exp2-pr
+ocessSystem.eps>
+(epstopdf)                    date: 2015-11-18 18:10:52
+(epstopdf)                    size: 24379 bytes
+(epstopdf)             Output file: <images/exp/app1/dynamic/adaptative/exp2-pr
+ocessSystem-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-11-18 18:11:10
+(epstopdf)                    size: 8508 bytes
+(epstopdf)             Command: <repstopdf --outfile=images/exp/app1/dynamic/ad
+aptative/exp2-processSystem-eps-converted-to.pdf images/exp/app1/dynamic/adapta
+tive/exp2-processSystem.eps>
+(epstopdf)             \includegraphics on input line 209.
+Package epstopdf Info: Output file is already uptodate.
+
+<images/exp/app1/dynamic/adaptative/exp2-processSystem-eps-converted-to.pdf, id
+=1692, 415.5525pt x 252.945pt>
+File: images/exp/app1/dynamic/adaptative/exp2-processSystem-eps-converted-to.pd
+f Graphic file (type pdf)
+
+<use images/exp/app1/dynamic/adaptative/exp2-processSystem-eps-converted-to.pdf
+>
+Package pdftex.def Info: images/exp/app1/dynamic/adaptative/exp2-processSystem-
+eps-converted-to.pdf used on input line 209.
+(pdftex.def)             Requested size: 166.21805pt x 101.17621pt.
+Package epstopdf Info: Source file: <images/exp/app1/dynamic/baseline/exp2-proc
+essSystem.eps>
+(epstopdf)                    date: 2015-11-18 18:08:49
+(epstopdf)                    size: 24354 bytes
+(epstopdf)             Output file: <images/exp/app1/dynamic/baseline/exp2-proc
+essSystem-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-11-18 18:11:10
+(epstopdf)                    size: 8505 bytes
+(epstopdf)             Command: <repstopdf --outfile=images/exp/app1/dynamic/ba
+seline/exp2-processSystem-eps-converted-to.pdf images/exp/app1/dynamic/baseline
+/exp2-processSystem.eps>
+(epstopdf)             \includegraphics on input line 209.
+Package epstopdf Info: Output file is already uptodate.
+
+<images/exp/app1/dynamic/baseline/exp2-processSystem-eps-converted-to.pdf, id=1
+693, 415.5525pt x 252.945pt>
+File: images/exp/app1/dynamic/baseline/exp2-processSystem-eps-converted-to.pdf 
+Graphic file (type pdf)
+
+<use images/exp/app1/dynamic/baseline/exp2-processSystem-eps-converted-to.pdf>
+Package pdftex.def Info: images/exp/app1/dynamic/baseline/exp2-processSystem-ep
+s-converted-to.pdf used on input line 209.
+(pdftex.def)             Requested size: 166.21805pt x 101.17621pt.
+File: images/LogoUsach.png Graphic file (type png)
+
+<use images/LogoUsach.png>
+Package pdftex.def Info: images/LogoUsach.png used on input line 209.
+(pdftex.def)             Requested size: 21.95107pt x 29.3006pt.
+ [44
+
+ <./images/exp/app1/dynamic/adaptative/exp2-processSystem-eps-converted-to.pdf>
+ <./images/exp/app1/dynamic/baseline/exp2-processSystem-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <images/exp/app1/dynamic/adaptative/exp2-ev
+entCount.eps>
+(epstopdf)                    date: 2015-10-30 19:03:33
+(epstopdf)                    size: 25120 bytes
+(epstopdf)             Output file: <images/exp/app1/dynamic/adaptative/exp2-ev
+entCount-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-11-18 17:59:28
+(epstopdf)                    size: 7431 bytes
+(epstopdf)             Command: <repstopdf --outfile=images/exp/app1/dynamic/ad
+aptative/exp2-eventCount-eps-converted-to.pdf images/exp/app1/dynamic/adaptativ
+e/exp2-eventCount.eps>
+(epstopdf)             \includegraphics on input line 229.
+Package epstopdf Info: Output file is already uptodate.
+
+<images/exp/app1/dynamic/adaptative/exp2-eventCount-eps-converted-to.pdf, id=17
+32, 415.5525pt x 252.945pt>
+File: images/exp/app1/dynamic/adaptative/exp2-eventCount-eps-converted-to.pdf G
+raphic file (type pdf)
+
+<use images/exp/app1/dynamic/adaptative/exp2-eventCount-eps-converted-to.pdf>
+Package pdftex.def Info: images/exp/app1/dynamic/adaptative/exp2-eventCount-eps
+-converted-to.pdf used on input line 229.
+(pdftex.def)             Requested size: 166.21805pt x 101.17621pt.
+Package epstopdf Info: Source file: <images/exp/app1/dynamic/baseline/exp2-even
+tCount.eps>
+(epstopdf)                    date: 2015-10-30 19:04:35
+(epstopdf)                    size: 25089 bytes
+(epstopdf)             Output file: <images/exp/app1/dynamic/baseline/exp2-even
+tCount-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-11-18 17:59:29
+(epstopdf)                    size: 7937 bytes
+(epstopdf)             Command: <repstopdf --outfile=images/exp/app1/dynamic/ba
+seline/exp2-eventCount-eps-converted-to.pdf images/exp/app1/dynamic/baseline/ex
+p2-eventCount.eps>
+(epstopdf)             \includegraphics on input line 229.
+Package epstopdf Info: Output file is already uptodate.
+
+<images/exp/app1/dynamic/baseline/exp2-eventCount-eps-converted-to.pdf, id=1733
+, 415.5525pt x 252.945pt>
+File: images/exp/app1/dynamic/baseline/exp2-eventCount-eps-converted-to.pdf Gra
+phic file (type pdf)
+
+<use images/exp/app1/dynamic/baseline/exp2-eventCount-eps-converted-to.pdf>
+Package pdftex.def Info: images/exp/app1/dynamic/baseline/exp2-eventCount-eps-c
+onverted-to.pdf used on input line 229.
+(pdftex.def)             Requested size: 166.21805pt x 101.17621pt.
+File: images/LogoUsach.png Graphic file (type png)
+
+<use images/LogoUsach.png>
+Package pdftex.def Info: images/LogoUsach.png used on input line 229.
+(pdftex.def)             Requested size: 21.95107pt x 29.3006pt.
+ [45
+
+ <./images/exp/app1/dynamic/adaptative/exp2-eventCount-eps-converted-to.pdf> <.
+/images/exp/app1/dynamic/baseline/exp2-eventCount-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <images/exp/app3/cm/fisical/consumeCPU.eps>
 
 (epstopdf)                    date: 2015-11-12 16:31:39
@@ -2087,19 +2095,19 @@ converted-to.pdf>
 (epstopdf)                    size: 9950 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/exp/app3/cm/fisical
 /consumeCPU-eps-converted-to.pdf images/exp/app3/cm/fisical/consumeCPU.eps>
-(epstopdf)             \includegraphics on input line 254.
+(epstopdf)             \includegraphics on input line 251.
 Package epstopdf Info: Output file is already uptodate.
 
-<images/exp/app3/cm/fisical/consumeCPU-eps-converted-to.pdf, id=1713, 361.35pt 
+<images/exp/app3/cm/fisical/consumeCPU-eps-converted-to.pdf, id=1772, 361.35pt 
 x 252.945pt>
 File: images/exp/app3/cm/fisical/consumeCPU-eps-converted-to.pdf Graphic file (
 type pdf)
  <use images/exp/app3/cm/fisical/consumeCPU-eps-converted-to.pdf>
 Package pdftex.def Info: images/exp/app3/cm/fisical/consumeCPU-eps-converted-to
-.pdf used on input line 254.
+.pdf used on input line 251.
 (pdftex.def)             Requested size: 171.64304pt x 120.15012pt.
 
-Overfull \hbox (5.49539pt too wide) in paragraph at lines 254--254
+Overfull \hbox (5.49539pt too wide) in paragraph at lines 251--251
  [] 
  []
 
@@ -2113,27 +2121,27 @@ converted-to.pdf>
 (epstopdf)                    size: 9871 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/exp/app3/sm/fisical
 /consumeCPU-eps-converted-to.pdf images/exp/app3/sm/fisical/consumeCPU.eps>
-(epstopdf)             \includegraphics on input line 254.
+(epstopdf)             \includegraphics on input line 251.
 Package epstopdf Info: Output file is already uptodate.
 
-<images/exp/app3/sm/fisical/consumeCPU-eps-converted-to.pdf, id=1714, 361.35pt 
+<images/exp/app3/sm/fisical/consumeCPU-eps-converted-to.pdf, id=1773, 361.35pt 
 x 252.945pt>
 File: images/exp/app3/sm/fisical/consumeCPU-eps-converted-to.pdf Graphic file (
 type pdf)
  <use images/exp/app3/sm/fisical/consumeCPU-eps-converted-to.pdf>
 Package pdftex.def Info: images/exp/app3/sm/fisical/consumeCPU-eps-converted-to
-.pdf used on input line 254.
+.pdf used on input line 251.
 (pdftex.def)             Requested size: 171.64304pt x 120.15012pt.
 
-Overfull \hbox (5.49539pt too wide) in paragraph at lines 254--254
+Overfull \hbox (5.49539pt too wide) in paragraph at lines 251--251
  [] 
  []
 
 File: images/LogoUsach.png Graphic file (type png)
 <use images/LogoUsach.png>
-Package pdftex.def Info: images/LogoUsach.png used on input line 254.
+Package pdftex.def Info: images/LogoUsach.png used on input line 251.
 (pdftex.def)             Requested size: 21.95107pt x 29.3006pt.
- [44
+ [46
 
  <./images/exp/app3/cm/fisical/consumeCPU-eps-converted-to.pdf> <./images/exp/a
 pp3/sm/fisical/consumeCPU-eps-converted-to.pdf>]
@@ -2147,19 +2155,19 @@ converted-to.pdf>
 (epstopdf)                    size: 7122 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/exp/app3/cm/fisical
 /consumeRAM-eps-converted-to.pdf images/exp/app3/cm/fisical/consumeRAM.eps>
-(epstopdf)             \includegraphics on input line 274.
+(epstopdf)             \includegraphics on input line 271.
 Package epstopdf Info: Output file is already uptodate.
 
-<images/exp/app3/cm/fisical/consumeRAM-eps-converted-to.pdf, id=1753, 361.35pt 
+<images/exp/app3/cm/fisical/consumeRAM-eps-converted-to.pdf, id=1813, 361.35pt 
 x 252.945pt>
 File: images/exp/app3/cm/fisical/consumeRAM-eps-converted-to.pdf Graphic file (
 type pdf)
  <use images/exp/app3/cm/fisical/consumeRAM-eps-converted-to.pdf>
 Package pdftex.def Info: images/exp/app3/cm/fisical/consumeRAM-eps-converted-to
-.pdf used on input line 274.
+.pdf used on input line 271.
 (pdftex.def)             Requested size: 171.64304pt x 120.15012pt.
 
-Overfull \hbox (5.49539pt too wide) in paragraph at lines 274--274
+Overfull \hbox (5.49539pt too wide) in paragraph at lines 271--271
  [] 
  []
 
@@ -2173,30 +2181,116 @@ converted-to.pdf>
 (epstopdf)                    size: 6844 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/exp/app3/sm/fisical
 /consumeRAM-eps-converted-to.pdf images/exp/app3/sm/fisical/consumeRAM.eps>
-(epstopdf)             \includegraphics on input line 274.
+(epstopdf)             \includegraphics on input line 271.
 Package epstopdf Info: Output file is already uptodate.
 
-<images/exp/app3/sm/fisical/consumeRAM-eps-converted-to.pdf, id=1754, 361.35pt 
+<images/exp/app3/sm/fisical/consumeRAM-eps-converted-to.pdf, id=1814, 361.35pt 
 x 252.945pt>
 File: images/exp/app3/sm/fisical/consumeRAM-eps-converted-to.pdf Graphic file (
 type pdf)
  <use images/exp/app3/sm/fisical/consumeRAM-eps-converted-to.pdf>
 Package pdftex.def Info: images/exp/app3/sm/fisical/consumeRAM-eps-converted-to
-.pdf used on input line 274.
+.pdf used on input line 271.
 (pdftex.def)             Requested size: 171.64304pt x 120.15012pt.
 
-Overfull \hbox (5.49539pt too wide) in paragraph at lines 274--274
+Overfull \hbox (5.49539pt too wide) in paragraph at lines 271--271
  [] 
  []
 
 File: images/LogoUsach.png Graphic file (type png)
 <use images/LogoUsach.png>
-Package pdftex.def Info: images/LogoUsach.png used on input line 274.
+Package pdftex.def Info: images/LogoUsach.png used on input line 271.
 (pdftex.def)             Requested size: 21.95107pt x 29.3006pt.
- [45
+ [47
 
  <./images/exp/app3/cm/fisical/consumeRAM-eps-converted-to.pdf> <./images/exp/a
 pp3/sm/fisical/consumeRAM-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <images/exp/app3/cm/logical/tiempoAlgoritmo
+s.eps>
+(epstopdf)                    date: 2015-11-18 16:56:27
+(epstopdf)                    size: 19836 bytes
+(epstopdf)             Output file: <images/exp/app3/cm/logical/tiempoAlgoritmo
+s-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-11-18 17:13:19
+(epstopdf)                    size: 10421 bytes
+(epstopdf)             Command: <repstopdf --outfile=images/exp/app3/cm/logical
+/tiempoAlgoritmos-eps-converted-to.pdf images/exp/app3/cm/logical/tiempoAlgorit
+mos.eps>
+(epstopdf)             \includegraphics on input line 284.
+Package epstopdf Info: Output file is already uptodate.
+
+<images/exp/app3/cm/logical/tiempoAlgoritmos-eps-converted-to.pdf, id=1853, 361
+.35pt x 252.945pt>
+File: images/exp/app3/cm/logical/tiempoAlgoritmos-eps-converted-to.pdf Graphic 
+file (type pdf)
+
+<use images/exp/app3/cm/logical/tiempoAlgoritmos-eps-converted-to.pdf>
+Package pdftex.def Info: images/exp/app3/cm/logical/tiempoAlgoritmos-eps-conver
+ted-to.pdf used on input line 284.
+(pdftex.def)             Requested size: 234.87471pt x 164.4123pt.
+File: images/LogoUsach.png Graphic file (type png)
+
+<use images/LogoUsach.png>
+Package pdftex.def Info: images/LogoUsach.png used on input line 284.
+(pdftex.def)             Requested size: 21.95107pt x 29.3006pt.
+ [48
+
+ <./images/exp/app3/cm/logical/tiempoAlgoritmos-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <images/exp/app3/cm/logical/processSystem.e
+ps>
+(epstopdf)                    date: 2015-11-16 10:58:12
+(epstopdf)                    size: 25372 bytes
+(epstopdf)             Output file: <images/exp/app3/cm/logical/processSystem-e
+ps-converted-to.pdf>
+(epstopdf)                    date: 2015-11-16 10:58:12
+(epstopdf)                    size: 8352 bytes
+(epstopdf)             Command: <repstopdf --outfile=images/exp/app3/cm/logical
+/processSystem-eps-converted-to.pdf images/exp/app3/cm/logical/processSystem.ep
+s>
+(epstopdf)             \includegraphics on input line 304.
+Package epstopdf Info: Output file is already uptodate.
+
+<images/exp/app3/cm/logical/processSystem-eps-converted-to.pdf, id=1887, 415.55
+25pt x 252.945pt>
+File: images/exp/app3/cm/logical/processSystem-eps-converted-to.pdf Graphic fil
+e (type pdf)
+
+<use images/exp/app3/cm/logical/processSystem-eps-converted-to.pdf>
+Package pdftex.def Info: images/exp/app3/cm/logical/processSystem-eps-converted
+-to.pdf used on input line 304.
+(pdftex.def)             Requested size: 166.21805pt x 101.17621pt.
+Package epstopdf Info: Source file: <images/exp/app3/sm/logical/processSystem.e
+ps>
+(epstopdf)                    date: 2015-11-16 10:58:12
+(epstopdf)                    size: 25284 bytes
+(epstopdf)             Output file: <images/exp/app3/sm/logical/processSystem-e
+ps-converted-to.pdf>
+(epstopdf)                    date: 2015-11-16 10:58:12
+(epstopdf)                    size: 8039 bytes
+(epstopdf)             Command: <repstopdf --outfile=images/exp/app3/sm/logical
+/processSystem-eps-converted-to.pdf images/exp/app3/sm/logical/processSystem.ep
+s>
+(epstopdf)             \includegraphics on input line 304.
+Package epstopdf Info: Output file is already uptodate.
+
+<images/exp/app3/sm/logical/processSystem-eps-converted-to.pdf, id=1888, 415.55
+25pt x 252.945pt>
+File: images/exp/app3/sm/logical/processSystem-eps-converted-to.pdf Graphic fil
+e (type pdf)
+
+<use images/exp/app3/sm/logical/processSystem-eps-converted-to.pdf>
+Package pdftex.def Info: images/exp/app3/sm/logical/processSystem-eps-converted
+-to.pdf used on input line 304.
+(pdftex.def)             Requested size: 166.21805pt x 101.17621pt.
+File: images/LogoUsach.png Graphic file (type png)
+
+<use images/LogoUsach.png>
+Package pdftex.def Info: images/LogoUsach.png used on input line 304.
+(pdftex.def)             Requested size: 21.95107pt x 29.3006pt.
+ [49
+
+ <./images/exp/app3/cm/logical/processSystem-eps-converted-to.pdf> <./images/ex
+p/app3/sm/logical/processSystem-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <images/exp/app3/cm/logical/eventCount.eps>
 
 (epstopdf)                    date: 2015-11-13 16:20:47
@@ -2207,19 +2301,19 @@ converted-to.pdf>
 (epstopdf)                    size: 9294 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/exp/app3/cm/logical
 /eventCount-eps-converted-to.pdf images/exp/app3/cm/logical/eventCount.eps>
-(epstopdf)             \includegraphics on input line 294.
+(epstopdf)             \includegraphics on input line 324.
 Package epstopdf Info: Output file is already uptodate.
 
-<images/exp/app3/cm/logical/eventCount-eps-converted-to.pdf, id=1794, 361.35pt 
+<images/exp/app3/cm/logical/eventCount-eps-converted-to.pdf, id=1928, 361.35pt 
 x 252.945pt>
 File: images/exp/app3/cm/logical/eventCount-eps-converted-to.pdf Graphic file (
 type pdf)
  <use images/exp/app3/cm/logical/eventCount-eps-converted-to.pdf>
 Package pdftex.def Info: images/exp/app3/cm/logical/eventCount-eps-converted-to
-.pdf used on input line 294.
+.pdf used on input line 324.
 (pdftex.def)             Requested size: 171.64304pt x 120.15012pt.
 
-Overfull \hbox (5.49539pt too wide) in paragraph at lines 294--294
+Overfull \hbox (5.49539pt too wide) in paragraph at lines 324--324
  [] 
  []
 
@@ -2233,67 +2327,66 @@ converted-to.pdf>
 (epstopdf)                    size: 9470 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/exp/app3/sm/logical
 /eventCount-eps-converted-to.pdf images/exp/app3/sm/logical/eventCount.eps>
-(epstopdf)             \includegraphics on input line 294.
+(epstopdf)             \includegraphics on input line 324.
 Package epstopdf Info: Output file is already uptodate.
 
-<images/exp/app3/sm/logical/eventCount-eps-converted-to.pdf, id=1795, 361.35pt 
+<images/exp/app3/sm/logical/eventCount-eps-converted-to.pdf, id=1929, 361.35pt 
 x 252.945pt>
 File: images/exp/app3/sm/logical/eventCount-eps-converted-to.pdf Graphic file (
 type pdf)
  <use images/exp/app3/sm/logical/eventCount-eps-converted-to.pdf>
 Package pdftex.def Info: images/exp/app3/sm/logical/eventCount-eps-converted-to
-.pdf used on input line 294.
+.pdf used on input line 324.
 (pdftex.def)             Requested size: 171.64304pt x 120.15012pt.
 
-Overfull \hbox (5.49539pt too wide) in paragraph at lines 294--294
+Overfull \hbox (5.49539pt too wide) in paragraph at lines 324--324
  [] 
  []
 
 File: images/LogoUsach.png Graphic file (type png)
 <use images/LogoUsach.png>
-Package pdftex.def Info: images/LogoUsach.png used on input line 294.
-(pdftex.def)             Requested size: 21.95107pt x 29.3006pt.
- [46
-
- <./images/exp/app3/cm/logical/eventCount-eps-converted-to.pdf> <./images/exp/a
-pp3/sm/logical/eventCount-eps-converted-to.pdf>]
-File: images/LogoUsach.png Graphic file (type png)
-
-<use images/LogoUsach.png>
-Package pdftex.def Info: images/LogoUsach.png used on input line 309.
-(pdftex.def)             Requested size: 21.95107pt x 29.3006pt.
- [47
-
-])
-\openout2 = `chapters/6-conclusiones.aux'.
-
- (./chapters/6-conclusiones.tex
-(./thesis-slides.toc)
-File: images/LogoUsach.png Graphic file (type png)
- <use images/LogoUsach.png>
-Package pdftex.def Info: images/LogoUsach.png used on input line 6.
-(pdftex.def)             Requested size: 21.95107pt x 29.3006pt.
- [48
-
-
-
-]
-File: images/LogoUsach.png Graphic file (type png)
-
-<use images/LogoUsach.png>
-Package pdftex.def Info: images/LogoUsach.png used on input line 27.
-(pdftex.def)             Requested size: 21.95107pt x 29.3006pt.
- [49
-
-]
-File: images/LogoUsach.png Graphic file (type png)
- <use images/LogoUsach.png>
-Package pdftex.def Info: images/LogoUsach.png used on input line 40.
+Package pdftex.def Info: images/LogoUsach.png used on input line 324.
 (pdftex.def)             Requested size: 21.95107pt x 29.3006pt.
  [50
 
+ <./images/exp/app3/cm/logical/eventCount-eps-converted-to.pdf> <./images/exp/a
+pp3/sm/logical/eventCount-eps-converted-to.pdf>])
+\openout2 = `chapters/6-conclusiones.aux'.
+
+(./chapters/6-conclusiones.tex (./thesis-slides.toc)
+File: images/LogoUsach.png Graphic file (type png)
+
+<use images/LogoUsach.png>
+Package pdftex.def Info: images/LogoUsach.png used on input line 6.
+(pdftex.def)             Requested size: 21.95107pt x 29.3006pt.
+ [51
+
+
+
+]
+File: images/LogoUsach.png Graphic file (type png)
+ <use images/LogoUsach.png>
+Package pdftex.def Info: images/LogoUsach.png used on input line 21.
+(pdftex.def)             Requested size: 21.95107pt x 29.3006pt.
+ [52
+
+]
+File: images/LogoUsach.png Graphic file (type png)
+
+<use images/LogoUsach.png>
+Package pdftex.def Info: images/LogoUsach.png used on input line 42.
+(pdftex.def)             Requested size: 21.95107pt x 29.3006pt.
+ [53
+
+]
+File: images/LogoUsach.png Graphic file (type png)
+ <use images/LogoUsach.png>
+Package pdftex.def Info: images/LogoUsach.png used on input line 55.
+(pdftex.def)             Requested size: 21.95107pt x 29.3006pt.
+ [54
+
 ])
-<images/Questions.pdf, id=1952, 457.71pt x 458.71375pt>
+<images/Questions.pdf, id=2086, 457.71pt x 458.71375pt>
 File: images/Questions.pdf Graphic file (type pdf)
 
 <use images/Questions.pdf>
@@ -2303,7 +2396,7 @@ File: images/LogoUsach.png Graphic file (type png)
  <use images/LogoUsach.png>
 Package pdftex.def Info: images/LogoUsach.png used on input line 25.
 (pdftex.def)             Requested size: 21.95107pt x 29.3006pt.
- [51
+ [55
 
 
  <./images/Questions.pdf>]
@@ -2313,7 +2406,7 @@ File: images/LogoUsach.png Graphic file (type png)
  <use images/LogoUsach.png>
 Package pdftex.def Info: images/LogoUsach.png used on input line 31.
 (pdftex.def)             Requested size: 21.95107pt x 29.3006pt.
- [52
+ [56
 
  </usr/share/texmf/tex/latex/beamer/base/art/beamericonarticle.pdf>]
 File: images/LogoUsach.png Graphic file (type png)
@@ -2321,7 +2414,7 @@ File: images/LogoUsach.png Graphic file (type png)
 Package pdftex.def Info: images/LogoUsach.png used on input line 31.
 (pdftex.def)             Requested size: 21.95107pt x 29.3006pt.
 
-[53
+[57
 
 
 ]
@@ -2329,7 +2422,7 @@ File: images/LogoUsach.png Graphic file (type png)
  <use images/LogoUsach.png>
 Package pdftex.def Info: images/LogoUsach.png used on input line 31.
 (pdftex.def)             Requested size: 21.95107pt x 29.3006pt.
- [54
+ [58
 
 
 ]
@@ -2337,30 +2430,659 @@ File: images/LogoUsach.png Graphic file (type png)
  <use images/LogoUsach.png>
 Package pdftex.def Info: images/LogoUsach.png used on input line 31.
 (pdftex.def)             Requested size: 21.95107pt x 29.3006pt.
- [55
+ [59
 
 
 ]
-\openout2 = `appendix/1-appendix.aux'.
-
-
-(./appendix/1-appendix.tex
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\translate ' on input line 1.
+(hyperref)                removing `\translate ' on input line 34.
 
-File: images/Questions.pdf Graphic file (type pdf)
-<use images/Questions.pdf>
-Package pdftex.def Info: images/Questions.pdf used on input line 7.
-(pdftex.def)             Requested size: 114.42722pt x 114.67815pt.
+\openout2 = `appendix/1-appendix.aux'.
+
+(./appendix/1-appendix.tex
+<images/EjCadenaMarkov.pdf, id=2243, 390.45876pt x 284.06125pt>
+File: images/EjCadenaMarkov.pdf Graphic file (type pdf)
+
+<use images/EjCadenaMarkov.pdf>
+Package pdftex.def Info: images/EjCadenaMarkov.pdf used on input line 11.
+(pdftex.def)             Requested size: 195.2289pt x 142.03026pt.
 File: images/LogoUsach.png Graphic file (type png)
  <use images/LogoUsach.png>
-Package pdftex.def Info: images/LogoUsach.png used on input line 7.
+Package pdftex.def Info: images/LogoUsach.png used on input line 11.
 (pdftex.def)             Requested size: 21.95107pt x 29.3006pt.
- [56
+ [60
 
 
-])
+ <./images/EjCadenaMarkov.pdf>]
+<images/EjCadenaMarkov-Reductible.pdf, id=2275, 385.44pt x 246.9225pt>
+File: images/EjCadenaMarkov-Reductible.pdf Graphic file (type pdf)
+
+<use images/EjCadenaMarkov-Reductible.pdf>
+Package pdftex.def Info: images/EjCadenaMarkov-Reductible.pdf used on input lin
+e 23.
+(pdftex.def)             Requested size: 192.71953pt x 123.46094pt.
+File: images/LogoUsach.png Graphic file (type png)
+ <use images/LogoUsach.png>
+Package pdftex.def Info: images/LogoUsach.png used on input line 23.
+(pdftex.def)             Requested size: 21.95107pt x 29.3006pt.
+ [61
+
+ <./images/EjCadenaMarkov-Reductible.pdf>]
+<images/EjCadenaMarkov-Aperiodica.pdf, id=2322, 462.72874pt x 273.02pt>
+File: images/EjCadenaMarkov-Aperiodica.pdf Graphic file (type pdf)
+
+<use images/EjCadenaMarkov-Aperiodica.pdf>
+Package pdftex.def Info: images/EjCadenaMarkov-Aperiodica.pdf used on input lin
+e 35.
+(pdftex.def)             Requested size: 231.3638pt x 136.50966pt.
+File: images/LogoUsach.png Graphic file (type png)
+ <use images/LogoUsach.png>
+Package pdftex.def Info: images/LogoUsach.png used on input line 35.
+(pdftex.def)             Requested size: 21.95107pt x 29.3006pt.
+ [62
+
+ <./images/EjCadenaMarkov-Aperiodica.pdf>])
+\openout2 = `appendix/2-appendix.aux'.
+
+ (./appendix/2-appendix.tex
+File: images/LogoUsach.png Graphic file (type png)
+
+<use images/LogoUsach.png>
+Package pdftex.def Info: images/LogoUsach.png used on input line 29.
+(pdftex.def)             Requested size: 21.95107pt x 29.3006pt.
+ [63
+
+
+
+]
+Package epstopdf Info: Source file: <images/exp/app1/uniform/cm/processSystem.e
+ps>
+(epstopdf)                    date: 2015-11-16 10:58:12
+(epstopdf)                    size: 39910 bytes
+(epstopdf)             Output file: <images/exp/app1/uniform/cm/processSystem-e
+ps-converted-to.pdf>
+(epstopdf)                    date: 2015-11-16 10:58:12
+(epstopdf)                    size: 14543 bytes
+(epstopdf)             Command: <repstopdf --outfile=images/exp/app1/uniform/cm
+/processSystem-eps-converted-to.pdf images/exp/app1/uniform/cm/processSystem.ep
+s>
+(epstopdf)             \includegraphics on input line 51.
+Package epstopdf Info: Output file is already uptodate.
+
+<images/exp/app1/uniform/cm/processSystem-eps-converted-to.pdf, id=2396, 415.55
+25pt x 252.945pt>
+File: images/exp/app1/uniform/cm/processSystem-eps-converted-to.pdf Graphic fil
+e (type pdf)
+
+<use images/exp/app1/uniform/cm/processSystem-eps-converted-to.pdf>
+Package pdftex.def Info: images/exp/app1/uniform/cm/processSystem-eps-converted
+-to.pdf used on input line 51.
+(pdftex.def)             Requested size: 166.21805pt x 101.17621pt.
+Package epstopdf Info: Source file: <images/exp/app1/uniform/sm/processSystem.e
+ps>
+(epstopdf)                    date: 2015-11-16 10:58:12
+(epstopdf)                    size: 39881 bytes
+(epstopdf)             Output file: <images/exp/app1/uniform/sm/processSystem-e
+ps-converted-to.pdf>
+(epstopdf)                    date: 2015-11-16 10:58:12
+(epstopdf)                    size: 14987 bytes
+(epstopdf)             Command: <repstopdf --outfile=images/exp/app1/uniform/sm
+/processSystem-eps-converted-to.pdf images/exp/app1/uniform/sm/processSystem.ep
+s>
+(epstopdf)             \includegraphics on input line 51.
+Package epstopdf Info: Output file is already uptodate.
+
+<images/exp/app1/uniform/sm/processSystem-eps-converted-to.pdf, id=2397, 415.55
+25pt x 252.945pt>
+File: images/exp/app1/uniform/sm/processSystem-eps-converted-to.pdf Graphic fil
+e (type pdf)
+
+<use images/exp/app1/uniform/sm/processSystem-eps-converted-to.pdf>
+Package pdftex.def Info: images/exp/app1/uniform/sm/processSystem-eps-converted
+-to.pdf used on input line 51.
+(pdftex.def)             Requested size: 166.21805pt x 101.17621pt.
+File: images/LogoUsach.png Graphic file (type png)
+
+<use images/LogoUsach.png>
+Package pdftex.def Info: images/LogoUsach.png used on input line 51.
+(pdftex.def)             Requested size: 21.95107pt x 29.3006pt.
+ [64
+
+ <./images/exp/app1/uniform/cm/processSystem-eps-converted-to.pdf> <./images/ex
+p/app1/uniform/sm/processSystem-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <images/exp/app1/uniform/cm/eventCount.eps>
+
+(epstopdf)                    date: 2015-11-12 15:59:27
+(epstopdf)                    size: 45169 bytes
+(epstopdf)             Output file: <images/exp/app1/uniform/cm/eventCount-eps-
+converted-to.pdf>
+(epstopdf)                    date: 2015-11-13 16:42:26
+(epstopdf)                    size: 16199 bytes
+(epstopdf)             Command: <repstopdf --outfile=images/exp/app1/uniform/cm
+/eventCount-eps-converted-to.pdf images/exp/app1/uniform/cm/eventCount.eps>
+(epstopdf)             \includegraphics on input line 71.
+Package epstopdf Info: Output file is already uptodate.
+
+<images/exp/app1/uniform/cm/eventCount-eps-converted-to.pdf, id=2437, 361.35pt 
+x 252.945pt>
+File: images/exp/app1/uniform/cm/eventCount-eps-converted-to.pdf Graphic file (
+type pdf)
+ <use images/exp/app1/uniform/cm/eventCount-eps-converted-to.pdf>
+Package pdftex.def Info: images/exp/app1/uniform/cm/eventCount-eps-converted-to
+.pdf used on input line 71.
+(pdftex.def)             Requested size: 171.64304pt x 120.15012pt.
+
+Overfull \hbox (5.49539pt too wide) in paragraph at lines 71--71
+ [] 
+ []
+
+Package epstopdf Info: Source file: <images/exp/app1/uniform/sm/eventCount.eps>
+
+(epstopdf)                    date: 2015-11-12 15:59:43
+(epstopdf)                    size: 45107 bytes
+(epstopdf)             Output file: <images/exp/app1/uniform/sm/eventCount-eps-
+converted-to.pdf>
+(epstopdf)                    date: 2015-11-13 16:42:26
+(epstopdf)                    size: 19398 bytes
+(epstopdf)             Command: <repstopdf --outfile=images/exp/app1/uniform/sm
+/eventCount-eps-converted-to.pdf images/exp/app1/uniform/sm/eventCount.eps>
+(epstopdf)             \includegraphics on input line 71.
+Package epstopdf Info: Output file is already uptodate.
+
+<images/exp/app1/uniform/sm/eventCount-eps-converted-to.pdf, id=2438, 361.35pt 
+x 252.945pt>
+File: images/exp/app1/uniform/sm/eventCount-eps-converted-to.pdf Graphic file (
+type pdf)
+ <use images/exp/app1/uniform/sm/eventCount-eps-converted-to.pdf>
+Package pdftex.def Info: images/exp/app1/uniform/sm/eventCount-eps-converted-to
+.pdf used on input line 71.
+(pdftex.def)             Requested size: 171.64304pt x 120.15012pt.
+
+Overfull \hbox (5.49539pt too wide) in paragraph at lines 71--71
+ [] 
+ []
+
+File: images/LogoUsach.png Graphic file (type png)
+<use images/LogoUsach.png>
+Package pdftex.def Info: images/LogoUsach.png used on input line 71.
+(pdftex.def)             Requested size: 21.95107pt x 29.3006pt.
+ [65
+
+ <./images/exp/app1/uniform/cm/eventCount-eps-converted-to.pdf> <./images/exp/a
+pp1/uniform/sm/eventCount-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <images/exp/app1/normal/cm/processSystem.ep
+s>
+(epstopdf)                    date: 2015-11-16 10:58:12
+(epstopdf)                    size: 39911 bytes
+(epstopdf)             Output file: <images/exp/app1/normal/cm/processSystem-ep
+s-converted-to.pdf>
+(epstopdf)                    date: 2015-11-16 10:58:12
+(epstopdf)                    size: 14781 bytes
+(epstopdf)             Command: <repstopdf --outfile=images/exp/app1/normal/cm/
+processSystem-eps-converted-to.pdf images/exp/app1/normal/cm/processSystem.eps>
+
+(epstopdf)             \includegraphics on input line 93.
+Package epstopdf Info: Output file is already uptodate.
+
+<images/exp/app1/normal/cm/processSystem-eps-converted-to.pdf, id=2477, 415.552
+5pt x 252.945pt>
+File: images/exp/app1/normal/cm/processSystem-eps-converted-to.pdf Graphic file
+ (type pdf)
+
+<use images/exp/app1/normal/cm/processSystem-eps-converted-to.pdf>
+Package pdftex.def Info: images/exp/app1/normal/cm/processSystem-eps-converted-
+to.pdf used on input line 93.
+(pdftex.def)             Requested size: 166.21805pt x 101.17621pt.
+Package epstopdf Info: Source file: <images/exp/app1/normal/sm/processSystem.ep
+s>
+(epstopdf)                    date: 2015-11-16 10:58:12
+(epstopdf)                    size: 39510 bytes
+(epstopdf)             Output file: <images/exp/app1/normal/sm/processSystem-ep
+s-converted-to.pdf>
+(epstopdf)                    date: 2015-11-16 10:58:12
+(epstopdf)                    size: 13717 bytes
+(epstopdf)             Command: <repstopdf --outfile=images/exp/app1/normal/sm/
+processSystem-eps-converted-to.pdf images/exp/app1/normal/sm/processSystem.eps>
+
+(epstopdf)             \includegraphics on input line 93.
+Package epstopdf Info: Output file is already uptodate.
+
+<images/exp/app1/normal/sm/processSystem-eps-converted-to.pdf, id=2478, 415.552
+5pt x 252.945pt>
+File: images/exp/app1/normal/sm/processSystem-eps-converted-to.pdf Graphic file
+ (type pdf)
+
+<use images/exp/app1/normal/sm/processSystem-eps-converted-to.pdf>
+Package pdftex.def Info: images/exp/app1/normal/sm/processSystem-eps-converted-
+to.pdf used on input line 93.
+(pdftex.def)             Requested size: 166.21805pt x 101.17621pt.
+File: images/LogoUsach.png Graphic file (type png)
+
+<use images/LogoUsach.png>
+Package pdftex.def Info: images/LogoUsach.png used on input line 93.
+(pdftex.def)             Requested size: 21.95107pt x 29.3006pt.
+ [66
+
+ <./images/exp/app1/normal/cm/processSystem-eps-converted-to.pdf> <./images/exp
+/app1/normal/sm/processSystem-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <images/exp/app1/normal/cm/eventCount.eps>
+(epstopdf)                    date: 2015-11-12 16:00:44
+(epstopdf)                    size: 44612 bytes
+(epstopdf)             Output file: <images/exp/app1/normal/cm/eventCount-eps-c
+onverted-to.pdf>
+(epstopdf)                    date: 2015-11-13 16:42:29
+(epstopdf)                    size: 18332 bytes
+(epstopdf)             Command: <repstopdf --outfile=images/exp/app1/normal/cm/
+eventCount-eps-converted-to.pdf images/exp/app1/normal/cm/eventCount.eps>
+(epstopdf)             \includegraphics on input line 113.
+Package epstopdf Info: Output file is already uptodate.
+
+<images/exp/app1/normal/cm/eventCount-eps-converted-to.pdf, id=2517, 361.35pt x
+ 252.945pt>
+File: images/exp/app1/normal/cm/eventCount-eps-converted-to.pdf Graphic file (t
+ype pdf)
+ <use images/exp/app1/normal/cm/eventCount-eps-converted-to.pdf>
+Package pdftex.def Info: images/exp/app1/normal/cm/eventCount-eps-converted-to.
+pdf used on input line 113.
+(pdftex.def)             Requested size: 171.64304pt x 120.15012pt.
+
+Overfull \hbox (5.49539pt too wide) in paragraph at lines 113--113
+ [] 
+ []
+
+Package epstopdf Info: Source file: <images/exp/app1/normal/sm/eventCount.eps>
+(epstopdf)                    date: 2015-11-12 16:00:06
+(epstopdf)                    size: 44572 bytes
+(epstopdf)             Output file: <images/exp/app1/normal/sm/eventCount-eps-c
+onverted-to.pdf>
+(epstopdf)                    date: 2015-11-13 16:42:29
+(epstopdf)                    size: 18421 bytes
+(epstopdf)             Command: <repstopdf --outfile=images/exp/app1/normal/sm/
+eventCount-eps-converted-to.pdf images/exp/app1/normal/sm/eventCount.eps>
+(epstopdf)             \includegraphics on input line 113.
+Package epstopdf Info: Output file is already uptodate.
+
+<images/exp/app1/normal/sm/eventCount-eps-converted-to.pdf, id=2518, 361.35pt x
+ 252.945pt>
+File: images/exp/app1/normal/sm/eventCount-eps-converted-to.pdf Graphic file (t
+ype pdf)
+ <use images/exp/app1/normal/sm/eventCount-eps-converted-to.pdf>
+Package pdftex.def Info: images/exp/app1/normal/sm/eventCount-eps-converted-to.
+pdf used on input line 113.
+(pdftex.def)             Requested size: 171.64304pt x 120.15012pt.
+
+Overfull \hbox (5.49539pt too wide) in paragraph at lines 113--113
+ [] 
+ []
+
+File: images/LogoUsach.png Graphic file (type png)
+<use images/LogoUsach.png>
+Package pdftex.def Info: images/LogoUsach.png used on input line 113.
+(pdftex.def)             Requested size: 21.95107pt x 29.3006pt.
+ [67
+
+ <./images/exp/app1/normal/cm/eventCount-eps-converted-to.pdf> <./images/exp/ap
+p1/normal/sm/eventCount-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <images/exp/app2/uniform/cm/processSystem.e
+ps>
+(epstopdf)                    date: 2015-11-16 10:58:12
+(epstopdf)                    size: 32358 bytes
+(epstopdf)             Output file: <images/exp/app2/uniform/cm/processSystem-e
+ps-converted-to.pdf>
+(epstopdf)                    date: 2015-11-16 10:58:12
+(epstopdf)                    size: 9552 bytes
+(epstopdf)             Command: <repstopdf --outfile=images/exp/app2/uniform/cm
+/processSystem-eps-converted-to.pdf images/exp/app2/uniform/cm/processSystem.ep
+s>
+(epstopdf)             \includegraphics on input line 130.
+Package epstopdf Info: Output file is already uptodate.
+
+<images/exp/app2/uniform/cm/processSystem-eps-converted-to.pdf, id=2559, 415.55
+25pt x 252.945pt>
+File: images/exp/app2/uniform/cm/processSystem-eps-converted-to.pdf Graphic fil
+e (type pdf)
+
+<use images/exp/app2/uniform/cm/processSystem-eps-converted-to.pdf>
+Package pdftex.def Info: images/exp/app2/uniform/cm/processSystem-eps-converted
+-to.pdf used on input line 130.
+(pdftex.def)             Requested size: 166.21805pt x 101.17621pt.
+Package epstopdf Info: Source file: <images/exp/app2/uniform/sm/processSystem.e
+ps>
+(epstopdf)                    date: 2015-11-16 10:58:12
+(epstopdf)                    size: 32391 bytes
+(epstopdf)             Output file: <images/exp/app2/uniform/sm/processSystem-e
+ps-converted-to.pdf>
+(epstopdf)                    date: 2015-11-16 10:58:12
+(epstopdf)                    size: 9578 bytes
+(epstopdf)             Command: <repstopdf --outfile=images/exp/app2/uniform/sm
+/processSystem-eps-converted-to.pdf images/exp/app2/uniform/sm/processSystem.ep
+s>
+(epstopdf)             \includegraphics on input line 130.
+Package epstopdf Info: Output file is already uptodate.
+
+<images/exp/app2/uniform/sm/processSystem-eps-converted-to.pdf, id=2560, 415.55
+25pt x 252.945pt>
+File: images/exp/app2/uniform/sm/processSystem-eps-converted-to.pdf Graphic fil
+e (type pdf)
+
+<use images/exp/app2/uniform/sm/processSystem-eps-converted-to.pdf>
+Package pdftex.def Info: images/exp/app2/uniform/sm/processSystem-eps-converted
+-to.pdf used on input line 130.
+(pdftex.def)             Requested size: 166.21805pt x 101.17621pt.
+File: images/LogoUsach.png Graphic file (type png)
+
+<use images/LogoUsach.png>
+Package pdftex.def Info: images/LogoUsach.png used on input line 130.
+(pdftex.def)             Requested size: 21.95107pt x 29.3006pt.
+ [68
+
+ <./images/exp/app2/uniform/cm/processSystem-eps-converted-to.pdf> <./images/ex
+p/app2/uniform/sm/processSystem-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <images/exp/app2/uniform/cm/eventCount.eps>
+
+(epstopdf)                    date: 2015-11-12 15:58:33
+(epstopdf)                    size: 39156 bytes
+(epstopdf)             Output file: <images/exp/app2/uniform/cm/eventCount-eps-
+converted-to.pdf>
+(epstopdf)                    date: 2015-11-13 16:42:31
+(epstopdf)                    size: 17578 bytes
+(epstopdf)             Command: <repstopdf --outfile=images/exp/app2/uniform/cm
+/eventCount-eps-converted-to.pdf images/exp/app2/uniform/cm/eventCount.eps>
+(epstopdf)             \includegraphics on input line 150.
+Package epstopdf Info: Output file is already uptodate.
+
+<images/exp/app2/uniform/cm/eventCount-eps-converted-to.pdf, id=2599, 361.35pt 
+x 252.945pt>
+File: images/exp/app2/uniform/cm/eventCount-eps-converted-to.pdf Graphic file (
+type pdf)
+ <use images/exp/app2/uniform/cm/eventCount-eps-converted-to.pdf>
+Package pdftex.def Info: images/exp/app2/uniform/cm/eventCount-eps-converted-to
+.pdf used on input line 150.
+(pdftex.def)             Requested size: 171.64304pt x 120.15012pt.
+
+Overfull \hbox (5.49539pt too wide) in paragraph at lines 150--150
+ [] 
+ []
+
+Package epstopdf Info: Source file: <images/exp/app2/uniform/sm/eventCount.eps>
+
+(epstopdf)                    date: 2015-11-12 15:58:10
+(epstopdf)                    size: 39194 bytes
+(epstopdf)             Output file: <images/exp/app2/uniform/sm/eventCount-eps-
+converted-to.pdf>
+(epstopdf)                    date: 2015-11-13 16:42:31
+(epstopdf)                    size: 14881 bytes
+(epstopdf)             Command: <repstopdf --outfile=images/exp/app2/uniform/sm
+/eventCount-eps-converted-to.pdf images/exp/app2/uniform/sm/eventCount.eps>
+(epstopdf)             \includegraphics on input line 150.
+Package epstopdf Info: Output file is already uptodate.
+
+<images/exp/app2/uniform/sm/eventCount-eps-converted-to.pdf, id=2600, 361.35pt 
+x 252.945pt>
+File: images/exp/app2/uniform/sm/eventCount-eps-converted-to.pdf Graphic file (
+type pdf)
+ <use images/exp/app2/uniform/sm/eventCount-eps-converted-to.pdf>
+Package pdftex.def Info: images/exp/app2/uniform/sm/eventCount-eps-converted-to
+.pdf used on input line 150.
+(pdftex.def)             Requested size: 171.64304pt x 120.15012pt.
+
+Overfull \hbox (5.49539pt too wide) in paragraph at lines 150--150
+ [] 
+ []
+
+File: images/LogoUsach.png Graphic file (type png)
+<use images/LogoUsach.png>
+Package pdftex.def Info: images/LogoUsach.png used on input line 150.
+(pdftex.def)             Requested size: 21.95107pt x 29.3006pt.
+ [69
+
+ <./images/exp/app2/uniform/cm/eventCount-eps-converted-to.pdf> <./images/exp/a
+pp2/uniform/sm/eventCount-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <images/exp/app2/normal/cm/processSystem.ep
+s>
+(epstopdf)                    date: 2015-11-16 10:58:12
+(epstopdf)                    size: 32507 bytes
+(epstopdf)             Output file: <images/exp/app2/normal/cm/processSystem-ep
+s-converted-to.pdf>
+(epstopdf)                    date: 2015-11-16 10:58:12
+(epstopdf)                    size: 10201 bytes
+(epstopdf)             Command: <repstopdf --outfile=images/exp/app2/normal/cm/
+processSystem-eps-converted-to.pdf images/exp/app2/normal/cm/processSystem.eps>
+
+(epstopdf)             \includegraphics on input line 167.
+Package epstopdf Info: Output file is already uptodate.
+
+<images/exp/app2/normal/cm/processSystem-eps-converted-to.pdf, id=2639, 415.552
+5pt x 252.945pt>
+File: images/exp/app2/normal/cm/processSystem-eps-converted-to.pdf Graphic file
+ (type pdf)
+
+<use images/exp/app2/normal/cm/processSystem-eps-converted-to.pdf>
+Package pdftex.def Info: images/exp/app2/normal/cm/processSystem-eps-converted-
+to.pdf used on input line 167.
+(pdftex.def)             Requested size: 166.21805pt x 101.17621pt.
+Package epstopdf Info: Source file: <images/exp/app2/normal/sm/processSystem.ep
+s>
+(epstopdf)                    date: 2015-11-16 10:58:12
+(epstopdf)                    size: 32372 bytes
+(epstopdf)             Output file: <images/exp/app2/normal/sm/processSystem-ep
+s-converted-to.pdf>
+(epstopdf)                    date: 2015-11-17 16:49:57
+(epstopdf)                    size: 9348 bytes
+(epstopdf)             Command: <repstopdf --outfile=images/exp/app2/normal/sm/
+processSystem-eps-converted-to.pdf images/exp/app2/normal/sm/processSystem.eps>
+
+(epstopdf)             \includegraphics on input line 167.
+Package epstopdf Info: Output file is already uptodate.
+
+<images/exp/app2/normal/sm/processSystem-eps-converted-to.pdf, id=2640, 415.552
+5pt x 252.945pt>
+File: images/exp/app2/normal/sm/processSystem-eps-converted-to.pdf Graphic file
+ (type pdf)
+
+<use images/exp/app2/normal/sm/processSystem-eps-converted-to.pdf>
+Package pdftex.def Info: images/exp/app2/normal/sm/processSystem-eps-converted-
+to.pdf used on input line 167.
+(pdftex.def)             Requested size: 166.21805pt x 101.17621pt.
+File: images/LogoUsach.png Graphic file (type png)
+
+<use images/LogoUsach.png>
+Package pdftex.def Info: images/LogoUsach.png used on input line 167.
+(pdftex.def)             Requested size: 21.95107pt x 29.3006pt.
+ [70
+
+ <./images/exp/app2/normal/cm/processSystem-eps-converted-to.pdf> <./images/exp
+/app2/normal/sm/processSystem-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <images/exp/app2/normal/cm/eventCount.eps>
+(epstopdf)                    date: 2015-11-12 16:06:01
+(epstopdf)                    size: 38673 bytes
+(epstopdf)             Output file: <images/exp/app2/normal/cm/eventCount-eps-c
+onverted-to.pdf>
+(epstopdf)                    date: 2015-11-13 16:42:33
+(epstopdf)                    size: 17256 bytes
+(epstopdf)             Command: <repstopdf --outfile=images/exp/app2/normal/cm/
+eventCount-eps-converted-to.pdf images/exp/app2/normal/cm/eventCount.eps>
+(epstopdf)             \includegraphics on input line 187.
+Package epstopdf Info: Output file is already uptodate.
+
+<images/exp/app2/normal/cm/eventCount-eps-converted-to.pdf, id=2680, 361.35pt x
+ 252.945pt>
+File: images/exp/app2/normal/cm/eventCount-eps-converted-to.pdf Graphic file (t
+ype pdf)
+ <use images/exp/app2/normal/cm/eventCount-eps-converted-to.pdf>
+Package pdftex.def Info: images/exp/app2/normal/cm/eventCount-eps-converted-to.
+pdf used on input line 187.
+(pdftex.def)             Requested size: 171.64304pt x 120.15012pt.
+
+Overfull \hbox (5.49539pt too wide) in paragraph at lines 187--187
+ [] 
+ []
+
+Package epstopdf Info: Source file: <images/exp/app2/normal/sm/eventCount.eps>
+(epstopdf)                    date: 2015-11-12 16:05:45
+(epstopdf)                    size: 39190 bytes
+(epstopdf)             Output file: <images/exp/app2/normal/sm/eventCount-eps-c
+onverted-to.pdf>
+(epstopdf)                    date: 2015-11-13 16:42:33
+(epstopdf)                    size: 14911 bytes
+(epstopdf)             Command: <repstopdf --outfile=images/exp/app2/normal/sm/
+eventCount-eps-converted-to.pdf images/exp/app2/normal/sm/eventCount.eps>
+(epstopdf)             \includegraphics on input line 187.
+Package epstopdf Info: Output file is already uptodate.
+
+<images/exp/app2/normal/sm/eventCount-eps-converted-to.pdf, id=2681, 361.35pt x
+ 252.945pt>
+File: images/exp/app2/normal/sm/eventCount-eps-converted-to.pdf Graphic file (t
+ype pdf)
+ <use images/exp/app2/normal/sm/eventCount-eps-converted-to.pdf>
+Package pdftex.def Info: images/exp/app2/normal/sm/eventCount-eps-converted-to.
+pdf used on input line 187.
+(pdftex.def)             Requested size: 171.64304pt x 120.15012pt.
+
+Overfull \hbox (5.49539pt too wide) in paragraph at lines 187--187
+ [] 
+ []
+
+File: images/LogoUsach.png Graphic file (type png)
+<use images/LogoUsach.png>
+Package pdftex.def Info: images/LogoUsach.png used on input line 187.
+(pdftex.def)             Requested size: 21.95107pt x 29.3006pt.
+ [71
+
+ <./images/exp/app2/normal/cm/eventCount-eps-converted-to.pdf> <./images/exp/ap
+p2/normal/sm/eventCount-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <images/exp/eventTotal.eps>
+(epstopdf)                    date: 2015-11-18 20:33:54
+(epstopdf)                    size: 22219 bytes
+(epstopdf)             Output file: <images/exp/eventTotal-eps-converted-to.pdf
+>
+(epstopdf)                    date: 2015-11-18 20:34:46
+(epstopdf)                    size: 15940 bytes
+(epstopdf)             Command: <repstopdf --outfile=images/exp/eventTotal-eps-
+converted-to.pdf images/exp/eventTotal.eps>
+(epstopdf)             \includegraphics on input line 197.
+Package epstopdf Info: Output file is already uptodate.
+
+<images/exp/eventTotal-eps-converted-to.pdf, id=2720, 361.35pt x 252.945pt>
+File: images/exp/eventTotal-eps-converted-to.pdf Graphic file (type pdf)
+
+<use images/exp/eventTotal-eps-converted-to.pdf>
+Package pdftex.def Info: images/exp/eventTotal-eps-converted-to.pdf used on inp
+ut line 197.
+(pdftex.def)             Requested size: 252.94327pt x 177.06029pt.
+File: images/LogoUsach.png Graphic file (type png)
+ <use images/LogoUsach.png>
+Package pdftex.def Info: images/LogoUsach.png used on input line 197.
+(pdftex.def)             Requested size: 21.95107pt x 29.3006pt.
+
+[72
+
+ <./images/exp/eventTotal-eps-converted-to.pdf>])
+\openout2 = `appendix/3-appendix.aux'.
+
+ (./appendix/3-appendix.tex
+Package epstopdf Info: Source file: <images/exp/app1/dynamic/exp1-eventTotal.ep
+s>
+(epstopdf)                    date: 2015-11-18 20:33:05
+(epstopdf)                    size: 20697 bytes
+(epstopdf)             Output file: <images/exp/app1/dynamic/exp1-eventTotal-ep
+s-converted-to.pdf>
+(epstopdf)                    date: 2015-11-18 20:33:13
+(epstopdf)                    size: 11029 bytes
+(epstopdf)             Command: <repstopdf --outfile=images/exp/app1/dynamic/ex
+p1-eventTotal-eps-converted-to.pdf images/exp/app1/dynamic/exp1-eventTotal.eps>
+
+(epstopdf)             \includegraphics on input line 9.
+Package epstopdf Info: Output file is already uptodate.
+
+<images/exp/app1/dynamic/exp1-eventTotal-eps-converted-to.pdf, id=2754, 415.552
+5pt x 252.945pt>
+File: images/exp/app1/dynamic/exp1-eventTotal-eps-converted-to.pdf Graphic file
+ (type pdf)
+
+<use images/exp/app1/dynamic/exp1-eventTotal-eps-converted-to.pdf>
+Package pdftex.def Info: images/exp/app1/dynamic/exp1-eventTotal-eps-converted-
+to.pdf used on input line 9.
+(pdftex.def)             Requested size: 290.88477pt x 177.06029pt.
+File: images/LogoUsach.png Graphic file (type png)
+
+<use images/LogoUsach.png>
+Package pdftex.def Info: images/LogoUsach.png used on input line 9.
+(pdftex.def)             Requested size: 21.95107pt x 29.3006pt.
+ [73
+
+
+
+ <./images/exp/app1/dynamic/exp1-eventTotal-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <images/exp/app1/dynamic/exp2-eventTotal.ep
+s>
+(epstopdf)                    date: 2015-11-18 20:32:00
+(epstopdf)                    size: 20148 bytes
+(epstopdf)             Output file: <images/exp/app1/dynamic/exp2-eventTotal-ep
+s-converted-to.pdf>
+(epstopdf)                    date: 2015-11-18 20:33:13
+(epstopdf)                    size: 10894 bytes
+(epstopdf)             Command: <repstopdf --outfile=images/exp/app1/dynamic/ex
+p2-eventTotal-eps-converted-to.pdf images/exp/app1/dynamic/exp2-eventTotal.eps>
+
+(epstopdf)             \includegraphics on input line 17.
+Package epstopdf Info: Output file is already uptodate.
+
+<images/exp/app1/dynamic/exp2-eventTotal-eps-converted-to.pdf, id=2790, 415.552
+5pt x 252.945pt>
+File: images/exp/app1/dynamic/exp2-eventTotal-eps-converted-to.pdf Graphic file
+ (type pdf)
+
+<use images/exp/app1/dynamic/exp2-eventTotal-eps-converted-to.pdf>
+Package pdftex.def Info: images/exp/app1/dynamic/exp2-eventTotal-eps-converted-
+to.pdf used on input line 17.
+(pdftex.def)             Requested size: 290.88477pt x 177.06029pt.
+File: images/LogoUsach.png Graphic file (type png)
+
+<use images/LogoUsach.png>
+Package pdftex.def Info: images/LogoUsach.png used on input line 17.
+(pdftex.def)             Requested size: 21.95107pt x 29.3006pt.
+ [74
+
+ <./images/exp/app1/dynamic/exp2-eventTotal-eps-converted-to.pdf>])
+\openout2 = `appendix/4-appendix.aux'.
+
+ (./appendix/4-appendix.tex
+Package epstopdf Info: Source file: <images/appendix/streamTwitterDate.eps>
+(epstopdf)                    date: 2015-11-18 16:12:38
+(epstopdf)                    size: 7961978 bytes
+(epstopdf)             Output file: <images/appendix/streamTwitterDate-eps-conv
+erted-to.pdf>
+(epstopdf)                    date: 2015-11-18 17:13:35
+(epstopdf)                    size: 4234416 bytes
+(epstopdf)             Command: <repstopdf --outfile=images/appendix/streamTwit
+terDate-eps-converted-to.pdf images/appendix/streamTwitterDate.eps>
+(epstopdf)             \includegraphics on input line 6.
+Package epstopdf Info: Output file is already uptodate.
+
+<images/appendix/streamTwitterDate-eps-converted-to.pdf, id=2823, 361.35pt x 25
+2.945pt>
+File: images/appendix/streamTwitterDate-eps-converted-to.pdf Graphic file (type
+ pdf)
+ <use images/appendix/streamTwitterDate-eps-converted-to.pdf>
+Package pdftex.def Info: images/appendix/streamTwitterDate-eps-converted-to.pdf
+ used on input line 6.
+(pdftex.def)             Requested size: 307.14896pt x 215.00426pt.
+File: images/LogoUsach.png Graphic file (type png)
+
+<use images/LogoUsach.png>
+Package pdftex.def Info: images/LogoUsach.png used on input line 6.
+(pdftex.def)             Requested size: 21.95107pt x 29.3006pt.
+
+Overfull \vbox (9.93367pt too high) detected at line 6
+ []
+
+[75
+
+
+
+ <./images/appendix/streamTwitterDate-eps-converted-to.pdf>])
 \tf@nav=\write6
 \openout6 = `thesis-slides.nav'.
 
@@ -2370,15 +3092,17 @@ Package pdftex.def Info: images/LogoUsach.png used on input line 7.
 \tf@snm=\write8
 \openout8 = `thesis-slides.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 36.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 36.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 40.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 40.
 
 (./thesis-slides.aux (./portada/title.aux) (./chapters/1-introduccion.aux)
 (./chapters/2-balancedecarga.aux) (./chapters/3-solucion.aux)
 (./chapters/4-diseno.aux) (./chapters/5-experimentos.aux)
-(./chapters/6-conclusiones.aux) (./appendix/1-appendix.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 36.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 36.
+(./chapters/6-conclusiones.aux) (./appendix/1-appendix.aux)
+(./appendix/2-appendix.aux) (./appendix/3-appendix.aux)
+(./appendix/4-appendix.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 40.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 40.
 Package rerunfilecheck Info: File `thesis-slides.out' has not changed.
 (rerunfilecheck)             Checksum: FFE18085AFBE46BB2E3E0FA51008EDE3;375.
 
@@ -2386,33 +3110,35 @@ Package rerunfilecheck Info: File `thesis-slides.out' has not changed.
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 36.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 40.
  ) 
 Here is how much of TeX's memory you used:
- 19436 strings out of 493304
- 350061 string characters out of 6139871
- 445755 words of memory out of 5000000
- 22145 multiletter control sequences out of 15000+600000
+ 19646 strings out of 493304
+ 358319 string characters out of 6139871
+ 447612 words of memory out of 5000000
+ 22281 multiletter control sequences out of 15000+600000
  22714 words of font info for 88 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 49i,16n,57p,419b,566s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 49i,16n,57p,419b,753s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texli
 ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texm
-f-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist
-/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texlive/texmf-dist/fonts
-/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/texmf-dist/fonts/type1/
-public/amsfonts/cm/cmss9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/
-amsfonts/cm/cmssi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfo
-nts/cm/cmssi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/c
-m/cmssi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy
-10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb>
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on thesis-slides.pdf (56 pages, 936162 bytes).
+f-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/share/texlive/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmss12.pfb></usr/share/texlive/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmss8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmss9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmssi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmssi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi
+8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi9.pfb>
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/
+share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/share/t
+exlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
+Output written on thesis-slides.pdf (75 pages, 5437851 bytes).
 PDF statistics:
- 2215 PDF objects out of 2487 (max. 8388607)
- 1941 compressed objects within 20 object streams
- 144 named destinations out of 1000 (max. 500000)
- 273 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2949 PDF objects out of 2984 (max. 8388607)
+ 2586 compressed objects within 26 object streams
+ 180 named destinations out of 1000 (max. 500000)
+ 404 words of extra memory for PDF output out of 10000 (max. 10000000)
 
