@@ -6,7 +6,7 @@
 	\tableofcontents[currentsection]
 \end{frame}
 
-\begin{frame}{Solución propuesta}{Objetivos y alcance del proyecto}
+\begin{frame}{Solución propuesta}{Objetivos del trabajo propuesto}
 
 \begin{alertblock}{Objetivo general}
 Dise\~no, construcción y evaluaci\'on de un modelo elástico de replicación de operadores para un sistema de procesamiento de \textit{stream} en tiempo real
@@ -14,25 +14,31 @@ Dise\~no, construcción y evaluaci\'on de un modelo elástico de replicación de
 
 \pause
 \begin{enumerate}
-	\item Dise\~nar e implementar un algoritmo reactivo que permita analizar en el momento la carga de los operadores
+	\item Dise\~nar e implementar un \textbf{algoritmo reactivo} que permita analizar en el momento la carga de los operadores
 	\pause
-	\item Dise\~nar e implementar un algoritmo de predicci\'on que permita estimar la carga de los operadores
+	\item Dise\~nar e implementar un \textbf{algoritmo de predicci\'on} que permita estimar la carga de los operadores
 	\pause
-	\item Dise\~nar e implementar un algoritmo que permita la administraci\'on del número de operadores del grafo de procesamiento de forma el\'astica
+	\item Dise\~nar e implementar un \textbf{algoritmo que permita la administraci\'on} del número de operadores del grafo de procesamiento de forma el\'astica
 	\pause
-	\item Dise\~nar y construir experimentos que permitan validar la hip\'otesis formulada
+	\item Dise\~nar y construir experimentos que permitan \textbf{validar la hip\'otesis} formulada
 	\pause
-	\item Evaluar y analizar el rendimiento del modelo a trav\'es de aplicaciones generadas sobre un sistema de procesamiento de \textit{stream}
+	\item Evaluar y analizar el \textbf{rendimiento} del modelo a trav\'es de aplicaciones generadas sobre un sistema de procesamiento de \textit{stream}
 \end{enumerate}
 \end{frame}
 
-\begin{frame}{Solución propuesta}{Objetivos y alcance del proyecto}
-Los alcances del proyecto se encuentran:
-\begin{itemize}
-	\item Evaluación sobre un sólo sistema de procesamiento de \textsl{stream}
-	\item Datos emitidos de la fuente de datos son homogéneos
-	\item Distribución de carga a nivel de operadores y no de máquinas
-	\item No garantiza completo procesamiento de los datos
-	\item Costo de comunicación de manera igualitaria para todos los operadores
-\end{itemize}
+\begin{frame}{Solución propuesta}{Hipótesis}
+    \begin{alertblock}{}
+    La utilización de un modelo elástico en un sistema de procesamiento de \textit{stream} permitirá aumentar la cantidad de eventos procesados, y con ello la precisión de los resultados
+    \end{alertblock}
 \end{frame}
+
+%\begin{frame}{Solución propuesta}{Objetivos y alcance del proyecto}
+%Los alcances del proyecto se encuentran:
+%\begin{itemize}
+%	\item Evaluación sobre un sólo sistema de procesamiento de \textsl{stream}
+%	\item Datos emitidos de la fuente de datos son homogéneos
+%	\item Distribución de carga a nivel de operadores y no de máquinas
+%	\item No garantiza completo procesamiento de los datos
+%	\item Costo de comunicación de manera igualitaria para todos los operadores
+%\end{itemize}
+%\end{frame}

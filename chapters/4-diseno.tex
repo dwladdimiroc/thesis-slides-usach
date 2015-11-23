@@ -6,19 +6,15 @@
 	\tableofcontents[currentsection]
 \end{frame}
 
-\begin{frame}[t]{Diseño del modelo elástico}{Análisis del modelo elástico}
+\begin{frame}[t]{Diseño del modelo elástico}{Análisis y decisiones del modelo elástico}
 \begin{itemize}
-\item Recursos lógicos del sistema según el enfoque dinámico
-\item Bajo overhead $\rightarrow$ Escalable
-\item Técnica de fisión
-\begin{itemize}
-	\item Elasticidad $\rightarrow$ Añadir/Reducir la cantidad de réplicas del operador
-	\item Solucionando:
-	\begin{itemize}
-		\item Sobrecarga
-		\item Utilización de recursos
-	\end{itemize}
-\end{itemize}
+\item Decisiones:
+    \begin{itemize}
+        \item Recursos lógicos
+        \item Enfoque dinámico
+        \item Escalable
+        \item Técnica de fisión
+    \end{itemize}
 \end{itemize}
 
 \begin{picture}(0,150)
@@ -28,19 +24,15 @@
 \end{frame}
 
 \addtocounter{framenumber}{-1}
-\begin{frame}[t]{Diseño del modelo elástico}{Análisis del modelo elástico}
+\begin{frame}[t]{Diseño del modelo elástico}{Análisis y decisiones del modelo elástico}
 \begin{itemize}
-\item Recursos lógicos del sistema según el enfoque dinámico
-\item Bajo overhead $\rightarrow$ Escalable
-\item Técnica de fisión
-\begin{itemize}
-	\item Elasticidad $\rightarrow$ Añadir/Reducir la cantidad de réplicas del operador
-	\item Solucionando:
-	\begin{itemize}
-		\item Sobrecarga
-		\item Utilización de recursos
-	\end{itemize}
-\end{itemize}
+\item Decisiones:
+    \begin{itemize}
+        \item Recursos lógicos
+        \item Enfoque dinámico
+        \item Escalable
+        \item Técnica de fisión
+    \end{itemize}
 \end{itemize}
 
 \begin{picture}(0,150)
@@ -50,19 +42,15 @@
 \end{frame}
 
 \addtocounter{framenumber}{-1}
-\begin{frame}[t]{Diseño del modelo elástico}{Análisis del modelo elástico}
+\begin{frame}[t]{Diseño del modelo elástico}{Análisis y decisiones del modelo elástico}
 \begin{itemize}
-\item Recursos lógicos del sistema según el enfoque dinámico
-\item Bajo overhead $\rightarrow$ Escalable
-\item Técnica de fisión
-\begin{itemize}
-	\item Elasticidad $\rightarrow$ Añadir/Reducir la cantidad de réplicas del operador
-	\item Solucionando:
-	\begin{itemize}
-		\item Sobrecarga
-		\item Utilización de recursos
-	\end{itemize}
-\end{itemize}
+\item Decisiones:
+    \begin{itemize}
+        \item Recursos lógicos
+        \item Enfoque dinámico
+        \item Escalable
+        \item Técnica de fisión
+    \end{itemize}
 \end{itemize}
 
 \begin{picture}(0,150)
@@ -73,11 +61,7 @@
 
 \begin{frame}{Diseño del modelo elástico}{Análisis del modelo elástico}
 \begin{itemize}
-\item El modelo elástico está basado en la teoría de colas
-\begin{itemize}
-	\item Tasa de rendimiento $\rho$
-	\item $\rho = \frac{\lambda}{s \mu}$
-\end{itemize}	
+    \item El modelo elástico está basado en la teoría de colas
 \end{itemize}
 
 \begin{figure}[!hb]
@@ -85,36 +69,53 @@
 	\includegraphics[scale=0.45]{images/AnalisisTeoriaColas.pdf}
 \end{figure}
 
+\begin{itemize}
+	\item Tasa de rendimiento $\rho$
+	\item $\rho = \frac{\lambda}{s \mu}$
+\end{itemize}
+
 \end{frame}
 
 \begin{frame}{Diseño del modelo elástico}{Análisis del modelo elástico}
 \begin{itemize}
 	\item Se propone un modelo elástico compuesto por 4 módulos
-	\item Basado en el modelo MAPE (Monitoreo, Análisis, Procesamiento y Ejecución)
 \end{itemize}
 \begin{figure}[ht!]
   \centering
     \includegraphics[scale=0.3]{images/Diagrama.pdf}
 \end{figure}
+\begin{itemize}
+    \item Basado en el modelo MAPE (Monitoreo, Análisis, Procesamiento y Ejecución)
+\end{itemize}
 \end{frame}
 
 \subsection*{Recolección de los datos}
-\begin{frame}{Diseño del modelo elástico}{Recolección de los datos}
-El monitor de carga es el encargado de recolectar los datos del grafo de operadores
+\begin{frame}{Diseño del modelo elástico}{Monitor de carga}
+\begin{figure}
+	\includegraphics[scale=0.5]{images/Modelo-vSlides-I.pdf}
+\end{figure}
+\end{frame}
+
+\begin{frame}{Diseño del modelo elástico}{Monitor de carga}
 \begin{itemize}
-	\item $\rho = \frac{\lambda}{\mu s}$
+\item El monitor de carga es el encargado de recolectar las estadísticas ($\rho$) del grafo de operadores 
+\begin{itemize}
 	\item Algoritmo reactivo
-	\item Algoritmo predictivo $\rightarrow$ Historial
-	\begin{itemize}
-		\item $n$ muestras
-	\end{itemize}
+	\item Algoritmo predictivo
+\end{itemize}
 \end{itemize}
 
 \end{frame}
 
 \subsection*{Algoritmo reactivo}
-\begin{frame}{Diseño del modelo elástico}{Algoritmo reactivo}
-\begin{block}{Analizador de carga}
+\begin{frame}{Diseño del modelo elástico}{Analizador de carga (Algoritmo reactivo)}
+\begin{figure}
+	\includegraphics[scale=0.5]{images/Modelo-vSlides-II.pdf}
+\end{figure}
+\end{frame}
+
+\begin{frame}{Diseño del modelo elástico}{Analizador de carga (Algoritmo reactivo)}
+\begin{block}{Analizador de carga (Algoritmo reactivo)}
 	Este módulo está enfocado en analizar el comportamiento del operador en el momento
 \end{block}
 
@@ -125,7 +126,7 @@ El monitor de carga es el encargado de recolectar los datos del grafo de operado
 \end{alertblock}
 \end{frame}
 
-\begin{frame}{Diseño del modelo elástico}{Algoritmo reactivo}
+\begin{frame}{Diseño del modelo elástico}{Analizador de carga (Algoritmo reactivo)}
 \begin{itemize}
 \item Análisis del estado del operador $\rightarrow$ Ventana de tiempo $T_r$
 \item Tasa de rendimiento $\rho$
@@ -144,8 +145,14 @@ El monitor de carga es el encargado de recolectar los datos del grafo de operado
 \end{frame}
 
 \subsection*{Algoritmo predictivo}
-\begin{frame}{Diseño del modelo elástico}{Algoritmo predictivo}
-\begin{block}{Predictor de carga}
+\begin{frame}{Diseño del modelo elástico}{Predictor de carga (Algoritmo predictivo)}
+\begin{figure}
+	\includegraphics[scale=0.5]{images/Modelo-vSlides-III.pdf}
+\end{figure}
+\end{frame}
+
+\begin{frame}{Diseño del modelo elástico}{Predictor de carga (Algoritmo predictivo)}
+\begin{block}{Predictor de carga (Algoritmo predictivo)}
 	Este módulo está enfocado en predecir el estado del operador basado en el comportamiento de su historia según las muestras obtenidas por el monitor
 \end{block}
 
@@ -156,19 +163,19 @@ El monitor de carga es el encargado de recolectar los datos del grafo de operado
 \end{alertblock}
 \end{frame}
 
-\begin{frame}{Diseño del modelo elástico}{Algoritmo predictivo}
+\begin{frame}{Diseño del modelo elástico}{Predictor de carga (Algoritmo predictivo)}
 \begin{itemize}
-	\item Definir muestras en tiempos discretos, las cuales cambian con el tiempo según un proceso estocástico
+	\item Definir \textbf{muestras en tiempos discretos}, las cuales cambian con el tiempo según un proceso estocástico
 	\begin{itemize}
 		\item Tasa de rendimiento $\rho$
 	\end{itemize}
-	\item Determinar los estados finitos que se utilizan para la conformación de la cadena
+	\item Determinar los \textbf{estados finitos} que se utilizan para la conformación de la cadena
 	\begin{itemize}
 		\item Ocioso
 		\item Estable
 		\item Inestable
 	\end{itemize}
-	\item Obtener una cantidad representativa de muestras para la construcción de la cadena de Markov en el período analizado
+	\item Obtener una \textbf{cantidad representativa de muestras} para la construcción de la cadena de Markov en el período analizado
 	\begin{itemize}
 		\item $n$ muestras
 	\end{itemize}
@@ -177,7 +184,7 @@ El monitor de carga es el encargado de recolectar los datos del grafo de operado
 \end{frame}
 
 
-\begin{frame}{Diseño del modelo elástico}{Algoritmo predictivo}
+\begin{frame}{Diseño del modelo elástico}{Predictor de carga (Algoritmo predictivo)}
 \begin{multicols}{2}
 \begin{itemize}
 	\item Construcción de la matriz de transición
@@ -209,9 +216,9 @@ El monitor de carga es el encargado de recolectar los datos del grafo de operado
 \end{multicols}
 \end{frame}
 
-\begin{frame}{Diseño del modelo elástico}{Algoritmo predictivo}
+\begin{frame}{Diseño del modelo elástico}{Predictor de carga (Algoritmo predictivo)}
+Si la cadena es irreducible y sus estados son aperiódicos y positivos recurrentes, entonces se usa:
 \begin{itemize}		
-	\item Si la cadena es irreducible y sus estados son aperiódicos y positivos recurrentes
 	\item Ecuación de Chapman-Kolmogórov $\rightarrow$ Distribución Estacionaria
 	\begin{itemize}
 		\item La probabilidad que la cadena pueda estar en un estado $i$ en un futuro lejano
@@ -236,11 +243,17 @@ El monitor de carga es el encargado de recolectar los datos del grafo de operado
 \end{frame}
 
 \subsection*{Administración del sistema}
-\begin{frame}{Diseño del modelo elástico}{Administración del sistema}
+\begin{frame}{Diseño del modelo elástico}{Administrador de réplicas}
+\begin{figure}
+	\includegraphics[scale=0.5]{images/Modelo-vSlides-IV.pdf}
+\end{figure}
+\end{frame}
+
+\begin{frame}{Diseño del modelo elástico}{Administrador de réplicas}
 \begin{itemize}
 \item Administración de la cantidad de réplicas requeridas de cada operador
-\item Recursos disponibles de la máquina
-\item Según la ventana de tiempo realiza un tipo análisis
+\item A considerar los recursos disponibles de la máquina
+\item Según la ventana de tiempo realiza un tipo de análisis
 \begin{itemize}
 	\item $T_r \rightarrow $ Algoritmo reactivo
 	\begin{itemize}
